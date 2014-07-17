@@ -1,0 +1,233 @@
+ Directory of D:\
+
+16-03-2014  13:53           103,332 1901786_688533064524012_72494842_n.jpg
+17-06-2014  12:25    <DIR>          debdutta
+19-06-2014  23:26    <DIR>          downloads
+07-06-2014  16:19    <DIR>          essential documents
+05-04-2014  09:53         1,384,640 exchange_codes.pdf
+09-06-2014  00:34    <DIR>          facebook pictures
+17-02-2014  19:21           118,864 fu01.pdf
+19-06-2014  23:26     2,115,272,704 Linkin Park - Rock Am Ring 2014.ts.!ut
+19-06-2014  23:23    <DIR>          Metallica By Request - Live At Rock am Ring
+2014
+04-05-2014  19:33         2,203,332 new_audi.txt
+07-12-2013  13:33    <DIR>          openoffice unpack
+07-05-2014  00:35    <DIR>          samrat da
+21-04-2014  22:06    <DIR>          shared folder
+20-06-2014  00:28    <DIR>          tcs push and del
+27-07-2012  19:33    <DIR>          TCWIN45
+20-10-2013  20:45    <DIR>          virtual test
+19-06-2014  23:30                91 who ;are you.txt
+               6 File(s)  2,119,082,963 bytes
+              11 Dir(s)   5,378,203,648 bytes free
+
+D:\>edit manifest.yml
+
+D:\>cf create-service cleardb spark my--tcsticket-mysqldbv1
+Not logged in. Use 'cf login' to log in.
+
+D:\>cf login
+API endpoint: https://api.ng.bluemix.net
+
+Email> sayantanbagchi88@gmail.com
+
+Password>
+Authenticating...
+Credentials were rejected, please try again.
+
+Password>
+Authenticating...
+Credentials were rejected, please try again.
+
+Password>
+Authenticating...
+Credentials were rejected, please try again.
+FAILED
+Unable to authenticate.
+
+API endpoint: https://api.ng.bluemix.net (API version: 2.2.0)
+Not logged in. Use 'cf login' to log in.
+
+D:\>cf login
+API endpoint: https://api.ng.bluemix.net
+
+Email> sayantanbagchi88@gmail.com
+
+Password>
+Authenticating...
+OK
+
+Targeted org sayantanbagchi88@gmail.com
+
+Targeted space dev
+
+
+API endpoint: https://api.ng.bluemix.net (API version: 2.2.0)
+User:         sayantanbagchi88@gmail.com
+Org:          sayantanbagchi88@gmail.com
+Space:        dev
+
+D:\>cd "tcs push and del"
+
+D:\tcs push and del>cf push
+Using manifest file D:\tcs push and del\manifest.yml
+
+Creating app tcsticketappv1 in org sayantanbagchi88@gmail.com / space dev as say
+antanbagchi88@gmail.com...
+OK
+
+Creating route tcsticketvr1.ng.bluemix.net...
+OK
+
+Binding tcsticketvr1.ng.bluemix.net to tcsticketappv1...
+OK
+
+Uploading tcsticketappv1...
+FAILED
+Error uploading application.
+Server error, status code: 500, error code: 10001, message: An unknown error occ
+urred.
+
+D:\tcs push and del>cf create-service cleardb spark my--tcsticket-mysqldbv1
+Creating service my--tcsticket-mysqldbv1 in org sayantanbagchi88@gmail.com / spa
+ce dev as sayantanbagchi88@gmail.com...
+OK
+
+D:\tcs push and del>cf push
+Using manifest file D:\tcs push and del\manifest.yml
+
+Updating app tcsticketappv1 in org sayantanbagchi88@gmail.com / space dev as say
+antanbagchi88@gmail.com...
+OK
+
+Uploading tcsticketappv1...
+FAILED
+Error uploading application.
+Server error, status code: 500, error code: 10001, message: An unknown error occ
+urred.
+
+D:\tcs push and del>cd ..
+
+D:\>C:
+
+C:\>D:
+
+D:\>cd tcsticketappv1
+
+D:\tcsticketappv1>cf push
+Using manifest file D:\tcsticketappv1\manifest.yml
+
+Updating app tcsticketappv1 in org sayantanbagchi88@gmail.com / space dev as say
+antanbagchi88@gmail.com...
+OK
+
+Uploading tcsticketappv1...
+Uploading app files from: D:\tcsticketappv1
+Uploading 110.3K, 41 files
+OK
+FAILED
+Could not find service my-tcsticket-mysqldbv1 to bind to tcsticketappv1
+
+D:\tcsticketappv1>manifest.yml
+
+D:\tcsticketappv1>cf push
+Using manifest file D:\tcsticketappv1\manifest.yml
+
+Updating app tcsticketappv1 in org sayantanbagchi88@gmail.com / space dev as say
+antanbagchi88@gmail.com...
+OK
+
+Uploading tcsticketappv1...
+Uploading app files from: D:\tcsticketappv1
+Uploading 110.3K, 41 files
+OK
+Binding service my-tcsticket-mysqldbv1 to app tcsticketappv1 in org sayantanbagc
+hi88@gmail.com / space dev as sayantanbagchi88@gmail.com...
+OK
+
+Starting app tcsticketappv1 in org sayantanbagchi88@gmail.com / space dev as say
+antanbagchi88@gmail.com...
+OK
+-----> Downloaded app package (56K)
+    /var/vcap/packages/dea_next/buildpacks/lib/buildpack.rb:101:in `build_pack':
+ Unable to detect a supported application type (RuntimeError)
+        from /var/vcap/packages/dea_next/buildpacks/lib/buildpack.rb:74:in `bloc
+k in compile_with_timeout'
+        from /usr/lib/ruby/1.9.1/timeout.rb:68:in `timeout'
+        from /var/vcap/packages/dea_next/buildpacks/lib/buildpack.rb:73:in `comp
+ile_with_timeout'
+        from /var/vcap/packages/dea_next/buildpacks/lib/buildpack.rb:54:in `bloc
+k in stage_application'
+        from /var/vcap/packages/dea_next/buildpacks/lib/buildpack.rb:50:in `chdi
+r'
+        from /var/vcap/packages/dea_next/buildpacks/lib/buildpack.rb:50:in `stag
+e_application'
+        from /var/vcap/packages/dea_next/buildpacks/bin/run:10:in `<main>'
+
+
+FAILED
+Server error, status code: 400, error code: 170001, message: Staging error: cann
+ot get instances since staging failed
+
+TIP: use 'cf logs tcsticketappv1 --recent' for more information
+
+D:\tcsticketappv1>cf logs tcsticketappv1
+Connected, tailing logs for app tcsticketappv1 in org sayantanbagchi88@gmail.com
+ / space dev as sayantanbagchi88@gmail.com...
+
+
+D:\tcsticketappv1>
+D:\tcsticketappv1>
+D:\tcsticketappv1>
+D:\tcsticketappv1>
+D:\tcsticketappv1>
+D:\tcsticketappv1>cf logs tcsticketappv1
+Connected, tailing logs for app tcsticketappv1 in org sayantanbagchi88@gmail.com
+ / space dev as sayantanbagchi88@gmail.com...
+
+
+D:\tcsticketappv1>cf logs tcsticketappv1 -recent
+Connected, dumping recent logs for app tcsticketappv1 in org sayantanbagchi88@gm
+ail.com / space dev as sayantanbagchi88@gmail.com...
+
+2014-06-20T00:42:24.96+0530 [API]     OUT Created app with guid 53dfe85c-53db-4d
+2c-a560-3b0db2a3c103
+2014-06-20T00:42:34.41+0530 [API]     OUT Updated app with guid 53dfe85c-53db-4d
+2c-a560-3b0db2a3c103 ({"route"=>"a1d80e06-fe48-4ffd-a83e-5ca357083d19"})
+2014-06-20T00:44:30.40+0530 [API]     OUT Updated app with guid 53dfe85c-53db-4d
+2c-a560-3b0db2a3c103 ({"name"=>"tcsticketappv1", "instances"=>1, "memory"=>512,
+"environment_json"=>"PRIVATE DATA HIDDEN"})
+2014-06-20T00:46:24.69+0530 [API]     OUT Updated app with guid 53dfe85c-53db-4d
+2c-a560-3b0db2a3c103 ({"name"=>"tcsticketappv1", "instances"=>1, "memory"=>512,
+"environment_json"=>"PRIVATE DATA HIDDEN"})
+2014-06-20T00:49:57.22+0530 [API]     OUT Updated app with guid 53dfe85c-53db-4d
+2c-a560-3b0db2a3c103 ({"name"=>"tcsticketappv1", "instances"=>1, "memory"=>512,
+"environment_json"=>"PRIVATE DATA HIDDEN"})
+2014-06-20T00:50:15.49+0530 [DEA]     OUT Got staging request for app with id 53
+dfe85c-53db-4d2c-a560-3b0db2a3c103
+2014-06-20T00:50:16.10+0530 [API]     OUT Updated app with guid 53dfe85c-53db-4d
+2c-a560-3b0db2a3c103 ({"state"=>"STARTED"})
+2014-06-20T00:50:16.66+0530 [STG]     OUT -----> Downloaded app package (56K)
+2014-06-20T00:50:18.51+0530 [STG]     ERR     /var/vcap/packages/dea_next/buildp
+acks/lib/buildpack.rb:101:in `build_pack': Unable to detect a supported applicat
+ion type (RuntimeError)
+2014-06-20T00:50:18.51+0530 [STG]     ERR       from /var/vcap/packages/dea_next
+/buildpacks/lib/buildpack.rb:74:in `block in compile_with_timeout'
+2014-06-20T00:50:18.51+0530 [STG]     ERR       from /usr/lib/ruby/1.9.1/timeout
+.rb:68:in `timeout'
+2014-06-20T00:50:18.51+0530 [STG]     ERR       from /var/vcap/packages/dea_next
+/buildpacks/lib/buildpack.rb:73:in `compile_with_timeout'
+2014-06-20T00:50:18.51+0530 [STG]     ERR       from /var/vcap/packages/dea_next
+/buildpacks/lib/buildpack.rb:54:in `block in stage_application'
+2014-06-20T00:50:18.51+0530 [STG]     ERR       from /var/vcap/packages/dea_next
+/buildpacks/lib/buildpack.rb:50:in `chdir'
+2014-06-20T00:50:18.51+0530 [STG]     ERR       from /var/vcap/packages/dea_next
+/buildpacks/lib/buildpack.rb:50:in `stage_application'
+2014-06-20T00:50:18.51+0530 [STG]     ERR       from /var/vcap/packages/dea_next
+/buildpacks/bin/run:10:in `<main>'
+2014-06-20T00:50:18.52+0530 [STG]     OUT
+2014-06-20T00:50:21.66+0530 [API]     ERR Encountered error: Staging error: fail
+ed to stage application:
+2014-06-20T00:50:21.66+0530 [API]     ERR Script exited with status 1
+
+D:\tcsticketappv1>

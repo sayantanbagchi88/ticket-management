@@ -1,0 +1,11 @@
+---
+applications:
+- name: wamp
+  memory: 128M
+  instances: 1
+  host: wampofSB
+  domain: mybluemix.net
+  path: .
+  services:
+  - wampdbv1
+

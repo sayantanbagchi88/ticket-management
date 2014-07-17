@@ -1,0 +1,1844 @@
+InnoDB: The first specified data file .\ibdata1 did not exist:
+InnoDB: a new database to be created!
+120421 14:44:26  InnoDB: Setting file .\ibdata1 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+120421 14:44:26  InnoDB: Log file .\ib_logfile0 did not exist: new to be created
+InnoDB: Setting log file .\ib_logfile0 size to 5 MB
+InnoDB: Database physically writes the file full: wait...
+120421 14:44:26  InnoDB: Log file .\ib_logfile1 did not exist: new to be created
+InnoDB: Setting log file .\ib_logfile1 size to 5 MB
+InnoDB: Database physically writes the file full: wait...
+InnoDB: Doublewrite buffer not found: creating new
+InnoDB: Doublewrite buffer created
+InnoDB: Creating foreign key constraint system tables
+InnoDB: Foreign key constraint system tables created
+120421 14:44:27  InnoDB: Started; log sequence number 0 0
+120421 14:44:27 [Note] Event Scheduler: Loaded 0 events
+120421 14:44:27 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120421 17:15:08 [Note] wampmysqld: Normal shutdown
+
+120421 17:15:08 [Note] Event Scheduler: Purging the queue. 0 events
+120421 17:15:08  InnoDB: Starting shutdown...
+120421 17:15:09  InnoDB: Shutdown completed; log sequence number 0 46409
+120421 17:15:09 [Warning] Forcing shutdown of 1 plugins
+120421 17:15:09 [Note] wampmysqld: Shutdown complete
+
+120422 19:35:19  InnoDB: Started; log sequence number 0 46409
+120422 19:35:19 [Note] Event Scheduler: Loaded 0 events
+120422 19:35:19 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120423  0:05:37 [Note] wampmysqld: Normal shutdown
+
+120423  0:05:37 [Note] Event Scheduler: Purging the queue. 0 events
+120423  0:05:37  InnoDB: Starting shutdown...
+120423  0:05:38  InnoDB: Shutdown completed; log sequence number 0 46409
+120423  0:05:38 [Warning] Forcing shutdown of 1 plugins
+120423  0:05:38 [Note] wampmysqld: Shutdown complete
+
+120423 10:07:18  InnoDB: Started; log sequence number 0 46409
+120423 10:07:18 [Note] Event Scheduler: Loaded 0 events
+120423 10:07:18 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120423 11:29:29 [Note] wampmysqld: Normal shutdown
+
+120423 11:29:29 [Note] Event Scheduler: Purging the queue. 0 events
+120423 11:29:29  InnoDB: Starting shutdown...
+120423 11:29:30  InnoDB: Shutdown completed; log sequence number 0 46409
+120423 11:29:30 [Warning] Forcing shutdown of 1 plugins
+120423 11:29:30 [Note] wampmysqld: Shutdown complete
+
+120423 14:22:28  InnoDB: Started; log sequence number 0 46409
+120423 14:22:28 [Note] Event Scheduler: Loaded 0 events
+120423 14:22:28 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120423 16:33:31 [Note] wampmysqld: Normal shutdown
+
+120423 16:33:31 [Note] Event Scheduler: Purging the queue. 0 events
+120423 16:33:31  InnoDB: Starting shutdown...
+120423 16:33:32  InnoDB: Shutdown completed; log sequence number 0 46409
+120423 16:33:32 [Warning] Forcing shutdown of 1 plugins
+120423 16:33:32 [Note] wampmysqld: Shutdown complete
+
+120424 13:48:38  InnoDB: Started; log sequence number 0 46409
+120424 13:48:38 [Note] Event Scheduler: Loaded 0 events
+120424 13:48:38 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120424 14:04:58 [Note] wampmysqld: Normal shutdown
+
+120424 14:04:58 [Note] Event Scheduler: Purging the queue. 0 events
+120424 14:04:58  InnoDB: Starting shutdown...
+120424 14:04:59  InnoDB: Shutdown completed; log sequence number 0 46409
+120424 14:04:59 [Warning] Forcing shutdown of 1 plugins
+120424 14:04:59 [Note] wampmysqld: Shutdown complete
+
+120425 20:48:33  InnoDB: Started; log sequence number 0 46409
+120425 20:48:33 [Note] Event Scheduler: Loaded 0 events
+120425 20:48:33 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120426  1:58:42 [Note] wampmysqld: Normal shutdown
+
+120426  1:58:42 [Note] Event Scheduler: Purging the queue. 0 events
+120426  1:58:44  InnoDB: Starting shutdown...
+120426  1:58:46  InnoDB: Shutdown completed; log sequence number 0 46409
+120426  1:58:46 [Warning] Forcing shutdown of 1 plugins
+120426  1:58:47 [Note] wampmysqld: Shutdown complete
+
+120426  8:18:56  InnoDB: Started; log sequence number 0 46409
+120426  8:18:57 [Note] Event Scheduler: Loaded 0 events
+120426  8:18:57 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120426 10:29:42 [Note] wampmysqld: Normal shutdown
+
+120426 10:29:42 [Note] Event Scheduler: Purging the queue. 0 events
+120426 10:29:42  InnoDB: Starting shutdown...
+120426 10:29:43  InnoDB: Shutdown completed; log sequence number 0 46409
+120426 10:29:43 [Warning] Forcing shutdown of 1 plugins
+120426 10:29:43 [Note] wampmysqld: Shutdown complete
+
+120426 17:04:13  InnoDB: Started; log sequence number 0 46409
+120426 17:04:13 [Note] Event Scheduler: Loaded 0 events
+120426 17:04:13 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120426 22:45:24 [Note] wampmysqld: Normal shutdown
+
+120426 22:45:24 [Note] Event Scheduler: Purging the queue. 0 events
+120426 22:45:24  InnoDB: Starting shutdown...
+120426 22:45:25  InnoDB: Shutdown completed; log sequence number 0 46409
+120426 22:45:25 [Warning] Forcing shutdown of 1 plugins
+120426 22:45:25 [Note] wampmysqld: Shutdown complete
+
+120426 22:45:26  InnoDB: Started; log sequence number 0 46409
+120426 22:45:26 [Note] Event Scheduler: Loaded 0 events
+120426 22:45:26 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120427  0:33:15 [Note] wampmysqld: Normal shutdown
+
+120427  0:33:15 [Note] Event Scheduler: Purging the queue. 0 events
+120427  0:33:15  InnoDB: Starting shutdown...
+120427  0:33:16  InnoDB: Shutdown completed; log sequence number 0 46409
+120427  0:33:16 [Warning] Forcing shutdown of 1 plugins
+120427  0:33:16 [Note] wampmysqld: Shutdown complete
+
+120427  8:44:16  InnoDB: Started; log sequence number 0 46409
+120427  8:44:16 [Note] Event Scheduler: Loaded 0 events
+120427  8:44:16 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120427 13:21:26 [Note] wampmysqld: Normal shutdown
+
+120427 13:21:26 [Note] Event Scheduler: Purging the queue. 0 events
+120427 13:21:26  InnoDB: Starting shutdown...
+120427 13:21:27  InnoDB: Shutdown completed; log sequence number 0 46409
+120427 13:21:27 [Warning] Forcing shutdown of 1 plugins
+120427 13:21:27 [Note] wampmysqld: Shutdown complete
+
+120427 15:50:59  InnoDB: Started; log sequence number 0 46409
+120427 15:50:59 [Note] Event Scheduler: Loaded 0 events
+120427 15:50:59 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120427 20:39:42 [Note] wampmysqld: Normal shutdown
+
+120427 20:39:42 [Note] Event Scheduler: Purging the queue. 0 events
+120427 20:39:42  InnoDB: Starting shutdown...
+120427 20:39:43  InnoDB: Shutdown completed; log sequence number 0 46409
+120427 20:39:43 [Warning] Forcing shutdown of 1 plugins
+120427 20:39:43 [Note] wampmysqld: Shutdown complete
+
+120427 21:27:18  InnoDB: Started; log sequence number 0 46409
+120427 21:27:18 [Note] Event Scheduler: Loaded 0 events
+120427 21:27:18 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120427 21:29:52 [Note] wampmysqld: Normal shutdown
+
+120427 21:29:52 [Note] Event Scheduler: Purging the queue. 0 events
+120427 21:29:52  InnoDB: Starting shutdown...
+120427 21:29:53  InnoDB: Shutdown completed; log sequence number 0 46409
+120427 21:29:53 [Warning] Forcing shutdown of 1 plugins
+120427 21:29:53 [Note] wampmysqld: Shutdown complete
+
+120429 11:49:32  InnoDB: Started; log sequence number 0 46409
+120429 11:49:32 [Note] Event Scheduler: Loaded 0 events
+120429 11:49:32 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120429 11:53:01 [Note] wampmysqld: Normal shutdown
+
+120429 11:53:01 [Note] Event Scheduler: Purging the queue. 0 events
+120429 11:53:01  InnoDB: Starting shutdown...
+120429 11:53:02  InnoDB: Shutdown completed; log sequence number 0 46409
+120429 11:53:02 [Warning] Forcing shutdown of 1 plugins
+120429 11:53:02 [Note] wampmysqld: Shutdown complete
+
+120429 17:07:41  InnoDB: Started; log sequence number 0 46409
+120429 17:07:41 [Note] Event Scheduler: Loaded 0 events
+120429 17:07:41 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120429 17:49:50 [Note] wampmysqld: Normal shutdown
+
+120429 17:49:50 [Note] Event Scheduler: Purging the queue. 0 events
+120429 17:49:50  InnoDB: Starting shutdown...
+120429 17:49:51  InnoDB: Shutdown completed; log sequence number 0 46409
+120429 17:49:51 [Warning] Forcing shutdown of 1 plugins
+120429 17:49:51 [Note] wampmysqld: Shutdown complete
+
+120429 23:20:21  InnoDB: Started; log sequence number 0 46409
+120429 23:20:22 [Note] Event Scheduler: Loaded 0 events
+120429 23:20:22 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120430  2:39:24 [Note] wampmysqld: Normal shutdown
+
+120430  2:39:24 [Note] Event Scheduler: Purging the queue. 0 events
+120430  2:39:24  InnoDB: Starting shutdown...
+120430  2:39:26  InnoDB: Shutdown completed; log sequence number 0 46409
+120430  2:39:26 [Warning] Forcing shutdown of 1 plugins
+120430  2:39:26 [Note] wampmysqld: Shutdown complete
+
+120501 12:23:56  InnoDB: Started; log sequence number 0 46409
+120501 12:23:56 [Note] Event Scheduler: Loaded 0 events
+120501 12:23:56 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120502  0:47:44 [Note] wampmysqld: Normal shutdown
+
+120502  0:47:45 [Note] Event Scheduler: Purging the queue. 0 events
+120502  0:47:46  InnoDB: Starting shutdown...
+120502  0:47:50  InnoDB: Shutdown completed; log sequence number 0 46409
+120502  0:47:50 [Warning] Forcing shutdown of 1 plugins
+120502  0:47:51 [Note] wampmysqld: Shutdown complete
+
+120502 10:44:49  InnoDB: Started; log sequence number 0 46409
+120502 10:44:49 [Note] Event Scheduler: Loaded 0 events
+120502 10:44:49 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120502 11:01:36 [Note] wampmysqld: Normal shutdown
+
+120502 11:01:36 [Note] Event Scheduler: Purging the queue. 0 events
+120502 11:01:36  InnoDB: Starting shutdown...
+120502 11:01:37  InnoDB: Shutdown completed; log sequence number 0 46409
+120502 11:01:37 [Warning] Forcing shutdown of 1 plugins
+120502 11:01:37 [Note] wampmysqld: Shutdown complete
+
+120508 13:09:46  InnoDB: Started; log sequence number 0 46409
+120508 13:09:47 [Note] Event Scheduler: Loaded 0 events
+120508 13:09:47 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120508 14:02:40 [Note] wampmysqld: Normal shutdown
+
+120508 14:02:40 [Note] Event Scheduler: Purging the queue. 0 events
+120508 14:02:40  InnoDB: Starting shutdown...
+120508 14:02:41  InnoDB: Shutdown completed; log sequence number 0 46409
+120508 14:02:41 [Warning] Forcing shutdown of 1 plugins
+120508 14:02:41 [Note] wampmysqld: Shutdown complete
+
+120511 20:22:42  InnoDB: Started; log sequence number 0 46409
+120511 20:22:43 [Note] Event Scheduler: Loaded 0 events
+120511 20:22:43 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120511 21:53:41 [Note] wampmysqld: Normal shutdown
+
+120511 21:53:41 [Note] Event Scheduler: Purging the queue. 0 events
+120511 21:53:41  InnoDB: Starting shutdown...
+120511 21:53:42  InnoDB: Shutdown completed; log sequence number 0 46409
+120511 21:53:42 [Warning] Forcing shutdown of 1 plugins
+120511 21:53:42 [Note] wampmysqld: Shutdown complete
+
+120511 21:53:53  InnoDB: Started; log sequence number 0 46409
+120511 21:53:53 [Note] Event Scheduler: Loaded 0 events
+120511 21:53:53 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120511 22:03:31 [Note] wampmysqld: Normal shutdown
+
+120511 22:03:31 [Note] Event Scheduler: Purging the queue. 0 events
+120511 22:03:31  InnoDB: Starting shutdown...
+120511 22:03:32  InnoDB: Shutdown completed; log sequence number 0 46409
+120511 22:03:32 [Warning] Forcing shutdown of 1 plugins
+120511 22:03:32 [Note] wampmysqld: Shutdown complete
+
+120511 22:03:33  InnoDB: Started; log sequence number 0 46409
+120511 22:03:33 [Note] Event Scheduler: Loaded 0 events
+120511 22:03:33 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120511 22:05:49 [Note] wampmysqld: Normal shutdown
+
+120511 22:05:49 [Note] Event Scheduler: Purging the queue. 0 events
+120511 22:05:49  InnoDB: Starting shutdown...
+120511 22:05:49  InnoDB: Shutdown completed; log sequence number 0 46409
+120511 22:05:49 [Warning] Forcing shutdown of 1 plugins
+120511 22:05:49 [Note] wampmysqld: Shutdown complete
+
+120511 22:05:57  InnoDB: Started; log sequence number 0 46409
+120511 22:05:58 [Note] Event Scheduler: Loaded 0 events
+120511 22:05:58 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120511 22:06:03 [Note] wampmysqld: Normal shutdown
+
+120511 22:06:03 [Note] Event Scheduler: Purging the queue. 0 events
+120511 22:06:03  InnoDB: Starting shutdown...
+120511 22:06:04  InnoDB: Shutdown completed; log sequence number 0 46409
+120511 22:06:04 [Warning] Forcing shutdown of 1 plugins
+120511 22:06:04 [Note] wampmysqld: Shutdown complete
+
+120511 22:06:04  InnoDB: Started; log sequence number 0 46409
+120511 22:06:04 [Note] Event Scheduler: Loaded 0 events
+120511 22:06:04 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120511 22:12:19 [Note] wampmysqld: Normal shutdown
+
+120511 22:12:19 [Note] Event Scheduler: Purging the queue. 0 events
+120511 22:12:19  InnoDB: Starting shutdown...
+120511 22:12:20  InnoDB: Shutdown completed; log sequence number 0 46409
+120511 22:12:20 [Warning] Forcing shutdown of 1 plugins
+120511 22:12:20 [Note] wampmysqld: Shutdown complete
+
+120511 22:12:20  InnoDB: Started; log sequence number 0 46409
+120511 22:12:20 [Note] Event Scheduler: Loaded 0 events
+120511 22:12:20 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120511 22:12:36 [Note] wampmysqld: Normal shutdown
+
+120511 22:12:36 [Note] Event Scheduler: Purging the queue. 0 events
+120511 22:12:36  InnoDB: Starting shutdown...
+120511 22:12:37  InnoDB: Shutdown completed; log sequence number 0 46409
+120511 22:12:37 [Warning] Forcing shutdown of 1 plugins
+120511 22:12:37 [Note] wampmysqld: Shutdown complete
+
+120511 22:12:37  InnoDB: Started; log sequence number 0 46409
+120511 22:12:37 [Note] Event Scheduler: Loaded 0 events
+120511 22:12:37 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120511 22:15:37 [Note] wampmysqld: Normal shutdown
+
+120511 22:15:37 [Note] Event Scheduler: Purging the queue. 0 events
+120511 22:15:37  InnoDB: Starting shutdown...
+120511 22:15:37  InnoDB: Shutdown completed; log sequence number 0 46409
+120511 22:15:37 [Warning] Forcing shutdown of 1 plugins
+120511 22:15:37 [Note] wampmysqld: Shutdown complete
+
+120511 22:15:37  InnoDB: Started; log sequence number 0 46409
+120511 22:15:37 [Note] Event Scheduler: Loaded 0 events
+120511 22:15:37 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120511 22:18:25 [Note] wampmysqld: Normal shutdown
+
+120511 22:18:25 [Note] Event Scheduler: Purging the queue. 0 events
+120511 22:18:25  InnoDB: Starting shutdown...
+120511 22:18:25  InnoDB: Shutdown completed; log sequence number 0 46409
+120511 22:18:25 [Warning] Forcing shutdown of 1 plugins
+120511 22:18:25 [Note] wampmysqld: Shutdown complete
+
+120511 22:19:09  InnoDB: Started; log sequence number 0 46409
+120511 22:19:09 [Note] Event Scheduler: Loaded 0 events
+120511 22:19:09 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120511 22:22:11 [Note] wampmysqld: Normal shutdown
+
+120511 22:22:11 [Note] Event Scheduler: Purging the queue. 0 events
+120511 22:22:11  InnoDB: Starting shutdown...
+120511 22:22:12  InnoDB: Shutdown completed; log sequence number 0 46409
+120511 22:22:12 [Warning] Forcing shutdown of 1 plugins
+120511 22:22:12 [Note] wampmysqld: Shutdown complete
+
+120511 22:22:12  InnoDB: Started; log sequence number 0 46409
+120511 22:22:12 [Note] Event Scheduler: Loaded 0 events
+120511 22:22:12 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120511 22:24:35 [Note] wampmysqld: Normal shutdown
+
+120511 22:24:35 [Note] Event Scheduler: Purging the queue. 0 events
+120511 22:24:35  InnoDB: Starting shutdown...
+120511 22:24:36  InnoDB: Shutdown completed; log sequence number 0 46409
+120511 22:24:36 [Warning] Forcing shutdown of 1 plugins
+120511 22:24:36 [Note] wampmysqld: Shutdown complete
+
+120511 22:24:37  InnoDB: Started; log sequence number 0 46409
+120511 22:24:37 [Note] Event Scheduler: Loaded 0 events
+120511 22:24:37 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120511 22:24:38 [Note] wampmysqld: Normal shutdown
+
+120511 22:24:38 [Note] Event Scheduler: Purging the queue. 0 events
+120511 22:24:38  InnoDB: Starting shutdown...
+120511 22:24:39  InnoDB: Shutdown completed; log sequence number 0 46409
+120511 22:24:39 [Warning] Forcing shutdown of 1 plugins
+120511 22:24:39 [Note] wampmysqld: Shutdown complete
+
+120511 22:24:39  InnoDB: Started; log sequence number 0 46409
+120511 22:24:39 [Note] Event Scheduler: Loaded 0 events
+120511 22:24:39 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120511 22:35:32 [Note] wampmysqld: Normal shutdown
+
+120511 22:35:32 [Note] Event Scheduler: Purging the queue. 0 events
+120511 22:35:32  InnoDB: Starting shutdown...
+120511 22:35:33  InnoDB: Shutdown completed; log sequence number 0 46409
+120511 22:35:33 [Warning] Forcing shutdown of 1 plugins
+120511 22:35:33 [Note] wampmysqld: Shutdown complete
+
+120511 22:35:33  InnoDB: Started; log sequence number 0 46409
+120511 22:35:33 [Note] Event Scheduler: Loaded 0 events
+120511 22:35:33 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120511 22:39:05 [Note] wampmysqld: Normal shutdown
+
+120511 22:39:05 [Note] Event Scheduler: Purging the queue. 0 events
+120511 22:39:05  InnoDB: Starting shutdown...
+120511 22:39:06  InnoDB: Shutdown completed; log sequence number 0 46409
+120511 22:39:06 [Warning] Forcing shutdown of 1 plugins
+120511 22:39:06 [Note] wampmysqld: Shutdown complete
+
+120511 22:39:06  InnoDB: Started; log sequence number 0 46409
+120511 22:39:06 [Note] Event Scheduler: Loaded 0 events
+120511 22:39:06 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120512  8:39:58 [Note] wampmysqld: Normal shutdown
+
+120512  8:39:58 [Note] Event Scheduler: Purging the queue. 0 events
+120512  8:39:58  InnoDB: Starting shutdown...
+120512  8:39:59  InnoDB: Shutdown completed; log sequence number 0 46409
+120512  8:39:59 [Warning] Forcing shutdown of 1 plugins
+120512  8:39:59 [Note] wampmysqld: Shutdown complete
+
+120512  8:41:54  InnoDB: Started; log sequence number 0 46409
+120512  8:41:54 [Note] Event Scheduler: Loaded 0 events
+120512  8:41:54 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120512 13:37:33 [Note] wampmysqld: Normal shutdown
+
+120512 13:37:33 [Note] Event Scheduler: Purging the queue. 0 events
+120512 13:37:33  InnoDB: Starting shutdown...
+120512 13:37:34  InnoDB: Shutdown completed; log sequence number 0 46409
+120512 13:37:34 [Warning] Forcing shutdown of 1 plugins
+120512 13:37:34 [Note] wampmysqld: Shutdown complete
+
+120514  0:15:35  InnoDB: Started; log sequence number 0 46409
+120514  0:15:35 [Note] Event Scheduler: Loaded 0 events
+120514  0:15:35 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120514  2:38:31 [Note] wampmysqld: Normal shutdown
+
+120514  2:38:31 [Note] Event Scheduler: Purging the queue. 0 events
+120514  2:38:31  InnoDB: Starting shutdown...
+120514  2:38:32  InnoDB: Shutdown completed; log sequence number 0 46409
+120514  2:38:32 [Warning] Forcing shutdown of 1 plugins
+120514  2:38:32 [Note] wampmysqld: Shutdown complete
+
+120514  9:24:00  InnoDB: Started; log sequence number 0 46409
+120514  9:24:00 [Note] Event Scheduler: Loaded 0 events
+120514  9:24:00 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120514 13:59:51 [Note] wampmysqld: Normal shutdown
+
+120514 13:59:51 [Note] Event Scheduler: Purging the queue. 0 events
+120514 13:59:51  InnoDB: Starting shutdown...
+120514 13:59:51  InnoDB: Shutdown completed; log sequence number 0 46409
+120514 13:59:51 [Warning] Forcing shutdown of 1 plugins
+120514 13:59:51 [Note] wampmysqld: Shutdown complete
+
+120514 15:04:32  InnoDB: Started; log sequence number 0 46409
+120514 15:04:33 [Note] Event Scheduler: Loaded 0 events
+120514 15:04:33 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120514 16:07:21 [Note] wampmysqld: Normal shutdown
+
+120514 16:07:21 [Note] Event Scheduler: Purging the queue. 0 events
+120514 16:07:21  InnoDB: Starting shutdown...
+120514 16:07:22  InnoDB: Shutdown completed; log sequence number 0 46409
+120514 16:07:22 [Warning] Forcing shutdown of 1 plugins
+120514 16:07:22 [Note] wampmysqld: Shutdown complete
+
+120515 10:00:33  InnoDB: Started; log sequence number 0 46409
+120515 10:00:34 [Note] Event Scheduler: Loaded 0 events
+120515 10:00:34 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120515 13:24:49 [Note] wampmysqld: Normal shutdown
+
+120515 13:24:52 [Note] Event Scheduler: Purging the queue. 0 events
+120515 13:24:55  InnoDB: Starting shutdown...
+120515 13:25:01  InnoDB: Shutdown completed; log sequence number 0 46409
+120515 13:25:02 [Warning] Forcing shutdown of 1 plugins
+120515 13:25:02 [Note] wampmysqld: Shutdown complete
+
+120516 18:52:29  InnoDB: Started; log sequence number 0 46409
+120516 18:52:30 [Note] Event Scheduler: Loaded 0 events
+120516 18:52:30 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120516 19:22:12 [Note] wampmysqld: Normal shutdown
+
+120516 19:22:12 [Note] Event Scheduler: Purging the queue. 0 events
+120516 19:22:12  InnoDB: Starting shutdown...
+120516 19:22:13  InnoDB: Shutdown completed; log sequence number 0 46409
+120516 19:22:13 [Warning] Forcing shutdown of 1 plugins
+120516 19:22:13 [Note] wampmysqld: Shutdown complete
+
+120521 13:49:42  InnoDB: Started; log sequence number 0 46409
+120521 13:49:43 [Note] Event Scheduler: Loaded 0 events
+120521 13:49:43 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120524 13:06:36  InnoDB: Started; log sequence number 0 46409
+120524 13:06:36 [Note] Recovering after a crash using mysql-bin
+120524 13:06:36 [Note] Starting crash recovery...
+120524 13:06:36 [Note] Crash recovery finished.
+120524 13:06:37 [Note] Event Scheduler: Loaded 0 events
+120524 13:06:37 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120524 16:24:49 [Note] wampmysqld: Normal shutdown
+
+120524 16:24:49 [Note] Event Scheduler: Purging the queue. 0 events
+120524 16:24:49  InnoDB: Starting shutdown...
+120524 16:24:49  InnoDB: Shutdown completed; log sequence number 0 46409
+120524 16:24:49 [Warning] Forcing shutdown of 1 plugins
+120524 16:24:49 [Note] wampmysqld: Shutdown complete
+
+120524 16:24:53  InnoDB: Started; log sequence number 0 46409
+120524 16:24:53 [Note] Event Scheduler: Loaded 0 events
+120524 16:24:53 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120524 19:06:41 [Note] wampmysqld: Normal shutdown
+
+120524 19:06:41 [Note] Event Scheduler: Purging the queue. 0 events
+120524 19:06:41  InnoDB: Starting shutdown...
+120524 19:06:42  InnoDB: Shutdown completed; log sequence number 0 46409
+120524 19:06:42 [Warning] Forcing shutdown of 1 plugins
+120524 19:06:42 [Note] wampmysqld: Shutdown complete
+
+120524 19:17:25  InnoDB: Started; log sequence number 0 46409
+120524 19:17:25 [Note] Event Scheduler: Loaded 0 events
+120524 19:17:25 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120524 22:51:48 [Note] wampmysqld: Normal shutdown
+
+120524 22:51:48 [Note] Event Scheduler: Purging the queue. 0 events
+120524 22:51:48  InnoDB: Starting shutdown...
+120524 22:51:49  InnoDB: Shutdown completed; log sequence number 0 46409
+120524 22:51:49 [Warning] Forcing shutdown of 1 plugins
+120524 22:51:49 [Note] wampmysqld: Shutdown complete
+
+120525 20:23:03  InnoDB: Started; log sequence number 0 46409
+120525 20:23:04 [Note] Event Scheduler: Loaded 0 events
+120525 20:23:04 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120526  0:18:07 [Note] wampmysqld: Normal shutdown
+
+120526  0:18:07 [Note] Event Scheduler: Purging the queue. 0 events
+120526  0:18:07  InnoDB: Starting shutdown...
+120526  0:18:08  InnoDB: Shutdown completed; log sequence number 0 46409
+120526  0:18:08 [Warning] Forcing shutdown of 1 plugins
+120526  0:18:08 [Note] wampmysqld: Shutdown complete
+
+120528 17:00:08  InnoDB: Started; log sequence number 0 46409
+120528 17:00:08 [Note] Event Scheduler: Loaded 0 events
+120528 17:00:08 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120528 18:13:25 [Note] wampmysqld: Normal shutdown
+
+120528 18:13:25 [Note] Event Scheduler: Purging the queue. 0 events
+120528 18:13:25  InnoDB: Starting shutdown...
+120528 18:13:31  InnoDB: Shutdown completed; log sequence number 0 46409
+120528 18:13:31 [Warning] Forcing shutdown of 1 plugins
+120528 18:13:31 [Note] wampmysqld: Shutdown complete
+
+120601 19:22:34  InnoDB: Started; log sequence number 0 46409
+120601 19:22:35 [Note] Event Scheduler: Loaded 0 events
+120601 19:22:35 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120602  1:17:20 [Note] wampmysqld: Normal shutdown
+
+120602  1:17:21 [Note] Event Scheduler: Purging the queue. 0 events
+120602  1:17:21  InnoDB: Starting shutdown...
+120602  1:17:22  InnoDB: Shutdown completed; log sequence number 0 46409
+120602  1:17:22 [Warning] Forcing shutdown of 1 plugins
+120602  1:17:22 [Note] wampmysqld: Shutdown complete
+
+120627 10:57:07  InnoDB: Started; log sequence number 0 46409
+120627 10:57:09 [Note] Event Scheduler: Loaded 0 events
+120627 10:57:09 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120627 12:33:41 [Note] wampmysqld: Normal shutdown
+
+120627 12:33:41 [Note] Event Scheduler: Purging the queue. 0 events
+120627 12:33:41  InnoDB: Starting shutdown...
+120627 12:33:42  InnoDB: Shutdown completed; log sequence number 0 46409
+120627 12:33:42 [Warning] Forcing shutdown of 1 plugins
+120627 12:33:42 [Note] wampmysqld: Shutdown complete
+
+120627 15:20:07  InnoDB: Started; log sequence number 0 46409
+120627 15:20:07 [Note] Event Scheduler: Loaded 0 events
+120627 15:20:07 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120628  0:09:07 [Note] wampmysqld: Normal shutdown
+
+120628  0:09:07 [Note] Event Scheduler: Purging the queue. 0 events
+120628  0:09:07  InnoDB: Starting shutdown...
+120628  0:09:08  InnoDB: Shutdown completed; log sequence number 0 46409
+120628  0:09:09 [Warning] Forcing shutdown of 1 plugins
+120628  0:09:09 [Note] wampmysqld: Shutdown complete
+
+120628 20:44:00  InnoDB: Started; log sequence number 0 46409
+120628 20:44:01 [Note] Event Scheduler: Loaded 0 events
+120628 20:44:01 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120629 12:58:13 [Note] wampmysqld: Normal shutdown
+
+120629 12:58:13 [Note] Event Scheduler: Purging the queue. 0 events
+120630 17:24:02  InnoDB: Started; log sequence number 0 46409
+120630 17:24:02 [Note] Event Scheduler: Loaded 0 events
+120630 17:24:02 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120701  0:05:47 [Note] wampmysqld: Normal shutdown
+
+120701  0:05:47 [Note] Event Scheduler: Purging the queue. 0 events
+120701  0:05:47  InnoDB: Starting shutdown...
+120701  0:05:48  InnoDB: Shutdown completed; log sequence number 0 46409
+120701  0:05:48 [Warning] Forcing shutdown of 1 plugins
+120701  0:05:48 [Note] wampmysqld: Shutdown complete
+
+120701 11:37:24  InnoDB: Started; log sequence number 0 46409
+120701 11:37:24 [Note] Event Scheduler: Loaded 0 events
+120701 11:37:24 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120701 17:34:10 [Note] wampmysqld: Normal shutdown
+
+120701 17:34:10 [Note] Event Scheduler: Purging the queue. 0 events
+120701 17:34:10  InnoDB: Starting shutdown...
+120701 17:34:12  InnoDB: Shutdown completed; log sequence number 0 46409
+120701 17:34:12 [Warning] Forcing shutdown of 1 plugins
+120701 17:34:16 [Note] wampmysqld: Shutdown complete
+
+120706 10:31:38  InnoDB: Started; log sequence number 0 46409
+120706 10:31:39 [Note] Event Scheduler: Loaded 0 events
+120706 10:31:39 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120706 10:41:14 [Note] wampmysqld: Normal shutdown
+
+120706 10:41:14 [Note] Event Scheduler: Purging the queue. 0 events
+120706 10:41:14  InnoDB: Starting shutdown...
+120706 10:41:15  InnoDB: Shutdown completed; log sequence number 0 46409
+120706 10:41:15 [Warning] Forcing shutdown of 1 plugins
+120706 10:41:15 [Note] wampmysqld: Shutdown complete
+
+120706 11:18:43  InnoDB: Started; log sequence number 0 46409
+120706 11:18:43 [Note] Event Scheduler: Loaded 0 events
+120706 11:18:43 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120706 17:35:59 [Note] wampmysqld: Normal shutdown
+
+120706 17:36:00 [Note] Event Scheduler: Purging the queue. 0 events
+120706 17:36:00  InnoDB: Starting shutdown...
+120706 17:36:01  InnoDB: Shutdown completed; log sequence number 0 46409
+120706 17:36:01 [Warning] Forcing shutdown of 1 plugins
+120706 17:36:01 [Note] wampmysqld: Shutdown complete
+
+120706 17:56:51  InnoDB: Started; log sequence number 0 46409
+120706 17:56:51 [Note] Event Scheduler: Loaded 0 events
+120706 17:56:51 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120706 17:59:36 [Note] wampmysqld: Normal shutdown
+
+120706 17:59:36 [Note] Event Scheduler: Purging the queue. 0 events
+120706 17:59:36  InnoDB: Starting shutdown...
+120706 17:59:37  InnoDB: Shutdown completed; log sequence number 0 46409
+120706 17:59:37 [Warning] Forcing shutdown of 1 plugins
+120706 17:59:37 [Note] wampmysqld: Shutdown complete
+
+120706 21:42:00  InnoDB: Started; log sequence number 0 46409
+120706 21:42:00 [Note] Event Scheduler: Loaded 0 events
+120706 21:42:00 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120706 22:43:14 [Note] wampmysqld: Normal shutdown
+
+120706 22:43:14 [Note] Event Scheduler: Purging the queue. 0 events
+120706 22:43:14  InnoDB: Starting shutdown...
+120706 22:43:15  InnoDB: Shutdown completed; log sequence number 0 46409
+120706 22:43:15 [Warning] Forcing shutdown of 1 plugins
+120706 22:43:15 [Note] wampmysqld: Shutdown complete
+
+120707  9:05:34  InnoDB: Started; log sequence number 0 46409
+120707  9:05:34 [Note] Event Scheduler: Loaded 0 events
+120707  9:05:34 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120707  9:58:59 [Note] wampmysqld: Normal shutdown
+
+120707  9:58:59 [Note] Event Scheduler: Purging the queue. 0 events
+120707  9:58:59  InnoDB: Starting shutdown...
+120707  9:59:01  InnoDB: Shutdown completed; log sequence number 0 46409
+120707  9:59:01 [Warning] Forcing shutdown of 1 plugins
+120707  9:59:01 [Note] wampmysqld: Shutdown complete
+
+120708 18:04:11  InnoDB: Started; log sequence number 0 46409
+120708 18:04:12 [Note] Event Scheduler: Loaded 0 events
+120708 18:04:12 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120709  0:39:33 [Note] wampmysqld: Normal shutdown
+
+120709  0:39:33 [Note] Event Scheduler: Purging the queue. 0 events
+120709  0:39:33  InnoDB: Starting shutdown...
+120709  0:39:34  InnoDB: Shutdown completed; log sequence number 0 46409
+120709  0:39:34 [Warning] Forcing shutdown of 1 plugins
+120709  0:39:34 [Note] wampmysqld: Shutdown complete
+
+120710 17:54:37  InnoDB: Started; log sequence number 0 46409
+120710 17:54:37 [Note] Event Scheduler: Loaded 0 events
+120710 17:54:37 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120710 23:32:27 [Note] wampmysqld: Normal shutdown
+
+120710 23:32:27 [Note] Event Scheduler: Purging the queue. 0 events
+120710 23:32:29  InnoDB: Starting shutdown...
+120710 23:32:31  InnoDB: Shutdown completed; log sequence number 0 46409
+120710 23:32:31 [Warning] Forcing shutdown of 1 plugins
+120710 23:32:31 [Note] wampmysqld: Shutdown complete
+
+120712  8:07:19  InnoDB: Started; log sequence number 0 46409
+120712  8:07:21 [Note] Event Scheduler: Loaded 0 events
+120712  8:07:21 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120712  9:20:41 [Note] wampmysqld: Normal shutdown
+
+120712  9:20:41 [Note] Event Scheduler: Purging the queue. 0 events
+120712  9:20:41  InnoDB: Starting shutdown...
+120712  9:20:42  InnoDB: Shutdown completed; log sequence number 0 46409
+120712  9:20:42 [Warning] Forcing shutdown of 1 plugins
+120712  9:20:42 [Note] wampmysqld: Shutdown complete
+
+120712  9:20:42  InnoDB: Started; log sequence number 0 46409
+120712  9:20:42 [Note] Event Scheduler: Loaded 0 events
+120712  9:20:42 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120712 13:22:35 [Note] wampmysqld: Normal shutdown
+
+120712 13:22:36 [Note] Event Scheduler: Purging the queue. 0 events
+120712 13:22:36  InnoDB: Starting shutdown...
+120712 13:22:37  InnoDB: Shutdown completed; log sequence number 0 46409
+120712 13:22:37 [Warning] Forcing shutdown of 1 plugins
+120712 13:22:37 [Note] wampmysqld: Shutdown complete
+
+120713 10:24:04  InnoDB: Started; log sequence number 0 46409
+120713 10:24:04 [Note] Event Scheduler: Loaded 0 events
+120713 10:24:04 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120713 14:25:47 [Note] wampmysqld: Normal shutdown
+
+120713 14:25:47 [Note] Event Scheduler: Purging the queue. 0 events
+120713 14:25:47  InnoDB: Starting shutdown...
+120713 14:25:48  InnoDB: Shutdown completed; log sequence number 0 46409
+120713 14:25:48 [Warning] Forcing shutdown of 1 plugins
+120713 14:25:48 [Note] wampmysqld: Shutdown complete
+
+120713 17:31:28  InnoDB: Started; log sequence number 0 46409
+120713 17:31:28 [Note] Event Scheduler: Loaded 0 events
+120713 17:31:28 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120713 20:04:29 [Note] wampmysqld: Normal shutdown
+
+120713 20:04:29 [Note] Event Scheduler: Purging the queue. 0 events
+120713 20:04:29  InnoDB: Starting shutdown...
+120713 20:04:33  InnoDB: Shutdown completed; log sequence number 0 46409
+120713 20:04:33 [Warning] Forcing shutdown of 1 plugins
+120713 20:04:33 [Note] wampmysqld: Shutdown complete
+
+120715  8:29:39  InnoDB: Started; log sequence number 0 46409
+120715  8:29:39 [Note] Event Scheduler: Loaded 0 events
+120715  8:29:39 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120715 10:43:02 [Note] wampmysqld: Normal shutdown
+
+120715 10:43:03 [Note] Event Scheduler: Purging the queue. 0 events
+120715 10:43:03  InnoDB: Starting shutdown...
+120715 10:43:04  InnoDB: Shutdown completed; log sequence number 0 46409
+120715 10:43:04 [Warning] Forcing shutdown of 1 plugins
+120715 10:43:04 [Note] wampmysqld: Shutdown complete
+
+120715 10:43:13  InnoDB: Started; log sequence number 0 46409
+120715 10:43:13 [Note] Event Scheduler: Loaded 0 events
+120715 10:43:13 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120715 11:33:34 [Note] wampmysqld: Normal shutdown
+
+120715 11:33:34 [Note] Event Scheduler: Purging the queue. 0 events
+120715 11:33:35  InnoDB: Starting shutdown...
+120715 11:33:38  InnoDB: Shutdown completed; log sequence number 0 46409
+120715 11:33:38 [Warning] Forcing shutdown of 1 plugins
+120715 11:33:38 [Note] wampmysqld: Shutdown complete
+
+120715 11:35:18  InnoDB: Started; log sequence number 0 46409
+120715 11:35:18 [Note] Event Scheduler: Loaded 0 events
+120715 11:35:18 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120715 14:01:24 [Note] wampmysqld: Normal shutdown
+
+120715 14:01:24 [Note] Event Scheduler: Purging the queue. 0 events
+120715 14:01:24  InnoDB: Starting shutdown...
+120715 14:01:25  InnoDB: Shutdown completed; log sequence number 0 46409
+120715 14:01:25 [Warning] Forcing shutdown of 1 plugins
+120715 14:01:25 [Note] wampmysqld: Shutdown complete
+
+120715 19:19:52  InnoDB: Started; log sequence number 0 46409
+120715 19:19:53 [Note] Event Scheduler: Loaded 0 events
+120715 19:19:53 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120716  0:08:47 [Note] wampmysqld: Normal shutdown
+
+120716  0:08:47 [Note] Event Scheduler: Purging the queue. 0 events
+120716  0:08:47  InnoDB: Starting shutdown...
+120716  0:08:49  InnoDB: Shutdown completed; log sequence number 0 46409
+120716  0:08:49 [Warning] Forcing shutdown of 1 plugins
+120716  0:08:49 [Note] wampmysqld: Shutdown complete
+
+120716 12:24:25  InnoDB: Started; log sequence number 0 46409
+120716 12:24:27 [Note] Event Scheduler: Loaded 0 events
+120716 12:24:27 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120716 16:03:57 [Note] wampmysqld: Normal shutdown
+
+120716 16:03:57 [Note] Event Scheduler: Purging the queue. 0 events
+120716 16:03:57  InnoDB: Starting shutdown...
+120716 16:03:59  InnoDB: Shutdown completed; log sequence number 0 46409
+120716 16:03:59 [Warning] Forcing shutdown of 1 plugins
+120716 16:03:59 [Note] wampmysqld: Shutdown complete
+
+120716 23:52:35  InnoDB: Started; log sequence number 0 46409
+120716 23:52:35 [Note] Event Scheduler: Loaded 0 events
+120716 23:52:35 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120717  1:51:48 [Note] wampmysqld: Normal shutdown
+
+120717  1:51:48 [Note] Event Scheduler: Purging the queue. 0 events
+120717  1:51:48  InnoDB: Starting shutdown...
+120717  1:51:49  InnoDB: Shutdown completed; log sequence number 0 46409
+120717  1:51:49 [Warning] Forcing shutdown of 1 plugins
+120717  1:51:49 [Note] wampmysqld: Shutdown complete
+
+120717  8:18:38  InnoDB: Started; log sequence number 0 46409
+120717  8:18:38 [Note] Event Scheduler: Loaded 0 events
+120717  8:18:38 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120717 11:08:23 [Note] wampmysqld: Normal shutdown
+
+120717 11:08:23 [Note] Event Scheduler: Purging the queue. 0 events
+120717 11:08:23  InnoDB: Starting shutdown...
+120717 11:08:24  InnoDB: Shutdown completed; log sequence number 0 46409
+120717 11:08:24 [Warning] Forcing shutdown of 1 plugins
+120717 11:08:24 [Note] wampmysqld: Shutdown complete
+
+120717 11:08:44  InnoDB: Started; log sequence number 0 46409
+120717 11:08:44 [Note] Event Scheduler: Loaded 0 events
+120717 11:08:44 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120717 16:58:55 [Note] wampmysqld: Normal shutdown
+
+120717 16:58:55 [Note] Event Scheduler: Purging the queue. 0 events
+120717 16:58:55  InnoDB: Starting shutdown...
+120717 16:58:56  InnoDB: Shutdown completed; log sequence number 0 46409
+120717 16:58:56 [Warning] Forcing shutdown of 1 plugins
+120717 16:58:56 [Note] wampmysqld: Shutdown complete
+
+120719 10:22:23  InnoDB: Started; log sequence number 0 46409
+120719 10:22:23 [Note] Event Scheduler: Loaded 0 events
+120719 10:22:23 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120719 18:06:37 [Note] wampmysqld: Normal shutdown
+
+120719 18:06:37 [Note] Event Scheduler: Purging the queue. 0 events
+120719 18:06:37  InnoDB: Starting shutdown...
+120719 18:06:38  InnoDB: Shutdown completed; log sequence number 0 46409
+120719 18:06:38 [Warning] Forcing shutdown of 1 plugins
+120719 18:06:38 [Note] wampmysqld: Shutdown complete
+
+120720 11:11:28  InnoDB: Started; log sequence number 0 46409
+120720 11:11:28 [Note] Event Scheduler: Loaded 0 events
+120720 11:11:28 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120721  8:35:59 [Note] wampmysqld: Normal shutdown
+
+120721  8:35:59 [Note] Event Scheduler: Purging the queue. 0 events
+120721  8:35:59  InnoDB: Starting shutdown...
+120721  8:36:01  InnoDB: Shutdown completed; log sequence number 0 46409
+120721  8:36:01 [Warning] Forcing shutdown of 1 plugins
+120721  8:36:01 [Note] wampmysqld: Shutdown complete
+
+120721 11:06:31  InnoDB: Started; log sequence number 0 46409
+120721 11:06:32 [Note] Event Scheduler: Loaded 0 events
+120721 11:06:32 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120721 12:44:17 [Note] wampmysqld: Normal shutdown
+
+120721 12:44:18 [Note] Event Scheduler: Purging the queue. 0 events
+120721 12:44:18  InnoDB: Starting shutdown...
+120721 12:44:19  InnoDB: Shutdown completed; log sequence number 0 46409
+120721 12:44:19 [Warning] Forcing shutdown of 1 plugins
+120721 12:44:19 [Note] wampmysqld: Shutdown complete
+
+120723  9:11:48  InnoDB: Started; log sequence number 0 46409
+120723  9:11:49 [Note] Event Scheduler: Loaded 0 events
+120723  9:11:49 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120724 10:40:55 [Note] wampmysqld: Normal shutdown
+
+120724 10:40:55 [Note] Event Scheduler: Purging the queue. 0 events
+120724 10:40:56  InnoDB: Starting shutdown...
+120724 10:40:56  InnoDB: Shutdown completed; log sequence number 0 46409
+120724 10:40:56 [Warning] Forcing shutdown of 1 plugins
+120724 10:40:56 [Note] wampmysqld: Shutdown complete
+
+120724 11:04:30  InnoDB: Started; log sequence number 0 46409
+120724 11:04:30 [Note] Event Scheduler: Loaded 0 events
+120724 11:04:30 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120724 13:00:07 [Note] wampmysqld: Normal shutdown
+
+120724 13:00:07 [Note] Event Scheduler: Purging the queue. 0 events
+120724 13:00:07  InnoDB: Starting shutdown...
+120724 13:00:08  InnoDB: Shutdown completed; log sequence number 0 46409
+120724 13:00:08 [Warning] Forcing shutdown of 1 plugins
+120724 13:00:08 [Note] wampmysqld: Shutdown complete
+
+120724 18:00:41  InnoDB: Started; log sequence number 0 46409
+120724 18:00:41 [Note] Event Scheduler: Loaded 0 events
+120724 18:00:41 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120724 22:55:40 [Note] wampmysqld: Normal shutdown
+
+120724 22:55:40 [Note] Event Scheduler: Purging the queue. 0 events
+120724 22:55:40  InnoDB: Starting shutdown...
+120724 22:55:41  InnoDB: Shutdown completed; log sequence number 0 46409
+120724 22:55:41 [Warning] Forcing shutdown of 1 plugins
+120724 22:55:41 [Note] wampmysqld: Shutdown complete
+
+120726  7:34:23  InnoDB: Started; log sequence number 0 46409
+120726  7:34:27 [Note] Event Scheduler: Loaded 0 events
+120726  7:34:27 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120726  8:06:53 [Note] wampmysqld: Normal shutdown
+
+120726  8:06:53 [Note] Event Scheduler: Purging the queue. 0 events
+120726  8:06:53  InnoDB: Starting shutdown...
+120726  8:06:53  InnoDB: Shutdown completed; log sequence number 0 46409
+120726  8:06:53 [Warning] Forcing shutdown of 1 plugins
+120726  8:06:53 [Note] wampmysqld: Shutdown complete
+
+120726 16:44:01  InnoDB: Started; log sequence number 0 46409
+120726 16:44:03 [Note] Event Scheduler: Loaded 0 events
+120726 16:44:03 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120726 16:55:54 [Note] wampmysqld: Normal shutdown
+
+120726 16:55:54 [Note] Event Scheduler: Purging the queue. 0 events
+120726 16:55:54  InnoDB: Starting shutdown...
+120726 16:55:55  InnoDB: Shutdown completed; log sequence number 0 46409
+120726 16:55:55 [Warning] Forcing shutdown of 1 plugins
+120726 16:55:55 [Note] wampmysqld: Shutdown complete
+
+120726 19:30:22  InnoDB: Started; log sequence number 0 46409
+120726 19:30:23 [Note] Event Scheduler: Loaded 0 events
+120726 19:30:23 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120726 19:49:31 [Note] wampmysqld: Normal shutdown
+
+120726 19:49:31 [Note] Event Scheduler: Purging the queue. 0 events
+120726 19:49:31  InnoDB: Starting shutdown...
+120726 19:49:32  InnoDB: Shutdown completed; log sequence number 0 46409
+120726 19:49:32 [Warning] Forcing shutdown of 1 plugins
+120726 19:49:32 [Note] wampmysqld: Shutdown complete
+
+120728 23:52:13  InnoDB: Started; log sequence number 0 46409
+120728 23:52:13 [Note] Event Scheduler: Loaded 0 events
+120728 23:52:13 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120728 23:54:34 [Note] wampmysqld: Normal shutdown
+
+120728 23:54:34 [Note] Event Scheduler: Purging the queue. 0 events
+120728 23:54:34  InnoDB: Starting shutdown...
+120728 23:54:36  InnoDB: Shutdown completed; log sequence number 0 46409
+120728 23:54:36 [Warning] Forcing shutdown of 1 plugins
+120728 23:54:36 [Note] wampmysqld: Shutdown complete
+
+120730  9:33:51  InnoDB: Started; log sequence number 0 46409
+120730  9:33:52 [Note] Event Scheduler: Loaded 0 events
+120730  9:33:52 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120730 10:34:52 [Note] wampmysqld: Normal shutdown
+
+120730 10:34:52 [Note] Event Scheduler: Purging the queue. 0 events
+120730 10:34:52  InnoDB: Starting shutdown...
+120730 10:34:53  InnoDB: Shutdown completed; log sequence number 0 46409
+120730 10:34:53 [Warning] Forcing shutdown of 1 plugins
+120730 10:34:53 [Note] wampmysqld: Shutdown complete
+
+120803 21:28:52  InnoDB: Started; log sequence number 0 46409
+120803 21:28:53 [Note] Event Scheduler: Loaded 0 events
+120803 21:28:53 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120803 21:29:27 [Note] wampmysqld: Normal shutdown
+
+120803 21:29:27 [Note] Event Scheduler: Purging the queue. 0 events
+120803 21:29:27  InnoDB: Starting shutdown...
+120803 21:29:28  InnoDB: Shutdown completed; log sequence number 0 46409
+120803 21:29:28 [Warning] Forcing shutdown of 1 plugins
+120803 21:29:28 [Note] wampmysqld: Shutdown complete
+
+120804 21:04:14  InnoDB: Started; log sequence number 0 46409
+120804 21:04:14 [Note] Event Scheduler: Loaded 0 events
+120804 21:04:14 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120805  0:13:11 [Note] wampmysqld: Normal shutdown
+
+120805  0:13:11 [Note] Event Scheduler: Purging the queue. 0 events
+120805  0:13:11  InnoDB: Starting shutdown...
+120805  0:13:12  InnoDB: Shutdown completed; log sequence number 0 46409
+120805  0:13:12 [Warning] Forcing shutdown of 1 plugins
+120805  0:13:12 [Note] wampmysqld: Shutdown complete
+
+120806 12:44:31  InnoDB: Started; log sequence number 0 46409
+120806 12:44:31 [Note] Event Scheduler: Loaded 0 events
+120806 12:44:31 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120806 12:52:55 [Note] wampmysqld: Normal shutdown
+
+120806 12:52:55 [Note] Event Scheduler: Purging the queue. 0 events
+120806 12:52:55  InnoDB: Starting shutdown...
+120806 12:52:55  InnoDB: Shutdown completed; log sequence number 0 46409
+120806 12:52:55 [Warning] Forcing shutdown of 1 plugins
+120806 12:52:55 [Note] wampmysqld: Shutdown complete
+
+120807 14:28:33  InnoDB: Started; log sequence number 0 46409
+120807 14:28:33 [Note] Event Scheduler: Loaded 0 events
+120807 14:28:33 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120807 16:04:41 [Note] wampmysqld: Normal shutdown
+
+120807 16:04:41 [Note] Event Scheduler: Purging the queue. 0 events
+120807 16:04:41  InnoDB: Starting shutdown...
+120807 16:04:42  InnoDB: Shutdown completed; log sequence number 0 46409
+120807 16:04:42 [Warning] Forcing shutdown of 1 plugins
+120807 16:04:42 [Note] wampmysqld: Shutdown complete
+
+120808 16:01:16  InnoDB: Started; log sequence number 0 46409
+120808 16:01:17 [Note] Event Scheduler: Loaded 0 events
+120808 16:01:17 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120808 16:09:29 [Note] wampmysqld: Normal shutdown
+
+120808 16:09:29 [Note] Event Scheduler: Purging the queue. 0 events
+120808 16:09:30  InnoDB: Starting shutdown...
+120808 16:09:31  InnoDB: Shutdown completed; log sequence number 0 46409
+120808 16:09:31 [Warning] Forcing shutdown of 1 plugins
+120808 16:09:31 [Note] wampmysqld: Shutdown complete
+
+120812 12:05:08  InnoDB: Started; log sequence number 0 46409
+120812 12:05:08 [Note] Event Scheduler: Loaded 0 events
+120812 12:05:08 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120812 12:40:53 [Note] wampmysqld: Normal shutdown
+
+120812 12:40:53 [Note] Event Scheduler: Purging the queue. 0 events
+120812 12:40:53  InnoDB: Starting shutdown...
+120812 12:40:53  InnoDB: Shutdown completed; log sequence number 0 46409
+120812 12:40:53 [Warning] Forcing shutdown of 1 plugins
+120812 12:40:53 [Note] wampmysqld: Shutdown complete
+
+120814 15:57:57  InnoDB: Started; log sequence number 0 46409
+120814 15:57:58 [Note] Event Scheduler: Loaded 0 events
+120814 15:57:58 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120814 16:01:40 [Note] wampmysqld: Normal shutdown
+
+120814 16:01:40 [Note] Event Scheduler: Purging the queue. 0 events
+120814 16:01:40  InnoDB: Starting shutdown...
+120814 16:01:41  InnoDB: Shutdown completed; log sequence number 0 46409
+120814 16:01:41 [Warning] Forcing shutdown of 1 plugins
+120814 16:01:41 [Note] wampmysqld: Shutdown complete
+
+120814 16:09:38  InnoDB: Started; log sequence number 0 46409
+120814 16:09:38 [Note] Event Scheduler: Loaded 0 events
+120814 16:09:38 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120814 16:30:48 [Note] wampmysqld: Normal shutdown
+
+120814 16:30:48 [Note] Event Scheduler: Purging the queue. 0 events
+120814 16:30:49  InnoDB: Starting shutdown...
+120814 16:30:50  InnoDB: Shutdown completed; log sequence number 0 46409
+120814 16:30:50 [Warning] Forcing shutdown of 1 plugins
+120814 16:30:50 [Note] wampmysqld: Shutdown complete
+
+120815 10:58:11  InnoDB: Started; log sequence number 0 46409
+120815 10:58:11 [Note] Event Scheduler: Loaded 0 events
+120815 10:58:11 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120815 11:57:20 [Note] wampmysqld: Normal shutdown
+
+120815 11:57:20 [Note] Event Scheduler: Purging the queue. 0 events
+120815 11:57:20  InnoDB: Starting shutdown...
+120815 11:57:20  InnoDB: Shutdown completed; log sequence number 0 46409
+120815 11:57:20 [Warning] Forcing shutdown of 1 plugins
+120815 11:57:20 [Note] wampmysqld: Shutdown complete
+
+120815 11:57:21  InnoDB: Started; log sequence number 0 46409
+120815 11:57:21 [Note] Event Scheduler: Loaded 0 events
+120815 11:57:21 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120815 12:14:56 [Note] wampmysqld: Normal shutdown
+
+120815 12:14:56 [Note] Event Scheduler: Purging the queue. 0 events
+120815 12:14:56  InnoDB: Starting shutdown...
+120815 12:14:57  InnoDB: Shutdown completed; log sequence number 0 46409
+120815 12:14:57 [Warning] Forcing shutdown of 1 plugins
+120815 12:14:57 [Note] wampmysqld: Shutdown complete
+
+120815 12:20:19  InnoDB: Started; log sequence number 0 46409
+120815 12:20:20 [Note] Event Scheduler: Loaded 0 events
+120815 12:20:20 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120815 12:22:02 [Note] wampmysqld: Normal shutdown
+
+120815 12:22:02 [Note] Event Scheduler: Purging the queue. 0 events
+120815 12:22:02  InnoDB: Starting shutdown...
+120815 12:22:04  InnoDB: Shutdown completed; log sequence number 0 46409
+120815 12:22:04 [Warning] Forcing shutdown of 1 plugins
+120815 12:22:04 [Note] wampmysqld: Shutdown complete
+
+120815 12:22:04  InnoDB: Started; log sequence number 0 46409
+120815 12:22:04 [Note] Event Scheduler: Loaded 0 events
+120815 12:22:04 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120815 12:23:04 [Note] wampmysqld: Normal shutdown
+
+120815 12:23:04 [Note] Event Scheduler: Purging the queue. 0 events
+120815 12:23:04  InnoDB: Starting shutdown...
+120815 12:23:04  InnoDB: Shutdown completed; log sequence number 0 46409
+120815 12:23:04 [Warning] Forcing shutdown of 1 plugins
+120815 12:23:04 [Note] wampmysqld: Shutdown complete
+
+120815 12:23:08  InnoDB: Started; log sequence number 0 46409
+120815 12:23:08 [Note] Event Scheduler: Loaded 0 events
+120815 12:23:08 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120815 12:23:52 [Note] wampmysqld: Normal shutdown
+
+120815 12:23:52 [Note] Event Scheduler: Purging the queue. 0 events
+120815 12:23:52  InnoDB: Starting shutdown...
+120815 12:23:53  InnoDB: Shutdown completed; log sequence number 0 46409
+120815 12:23:53 [Warning] Forcing shutdown of 1 plugins
+120815 12:23:53 [Note] wampmysqld: Shutdown complete
+
+120815 12:23:53  InnoDB: Started; log sequence number 0 46409
+120815 12:23:53 [Note] Event Scheduler: Loaded 0 events
+120815 12:23:53 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120815 12:24:19 [Note] wampmysqld: Normal shutdown
+
+120815 12:24:19 [Note] Event Scheduler: Purging the queue. 0 events
+120815 12:24:19  InnoDB: Starting shutdown...
+120815 12:24:20  InnoDB: Shutdown completed; log sequence number 0 46409
+120815 12:24:20 [Warning] Forcing shutdown of 1 plugins
+120815 12:24:20 [Note] wampmysqld: Shutdown complete
+
+120815 12:24:33  InnoDB: Started; log sequence number 0 46409
+120815 12:24:33 [Note] Event Scheduler: Loaded 0 events
+120815 12:24:33 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120815 12:25:00 [Note] wampmysqld: Normal shutdown
+
+120815 12:25:00 [Note] Event Scheduler: Purging the queue. 0 events
+120815 12:25:00  InnoDB: Starting shutdown...
+120815 12:25:01  InnoDB: Shutdown completed; log sequence number 0 46409
+120815 12:25:01 [Warning] Forcing shutdown of 1 plugins
+120815 12:25:01 [Note] wampmysqld: Shutdown complete
+
+120815 12:25:02  InnoDB: Started; log sequence number 0 46409
+120815 12:25:02 [Note] Event Scheduler: Loaded 0 events
+120815 12:25:02 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120815 12:28:43 [Note] wampmysqld: Normal shutdown
+
+120815 12:28:43 [Note] Event Scheduler: Purging the queue. 0 events
+120815 12:28:43  InnoDB: Starting shutdown...
+120815 12:28:43  InnoDB: Shutdown completed; log sequence number 0 46409
+120815 12:28:43 [Warning] Forcing shutdown of 1 plugins
+120815 12:28:43 [Note] wampmysqld: Shutdown complete
+
+120815 12:28:44  InnoDB: Started; log sequence number 0 46409
+120815 12:28:44 [Note] Event Scheduler: Loaded 0 events
+120815 12:28:44 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120815 12:36:30 [Note] wampmysqld: Normal shutdown
+
+120815 12:36:30 [Note] Event Scheduler: Purging the queue. 0 events
+120815 12:36:30  InnoDB: Starting shutdown...
+120815 12:36:31  InnoDB: Shutdown completed; log sequence number 0 46409
+120815 12:36:31 [Warning] Forcing shutdown of 1 plugins
+120815 12:36:31 [Note] wampmysqld: Shutdown complete
+
+120815 12:36:31  InnoDB: Started; log sequence number 0 46409
+120815 12:36:31 [Note] Event Scheduler: Loaded 0 events
+120815 12:36:31 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120815 12:40:23 [Note] wampmysqld: Normal shutdown
+
+120815 12:40:23 [Note] Event Scheduler: Purging the queue. 0 events
+120815 12:40:23  InnoDB: Starting shutdown...
+120815 12:40:24  InnoDB: Shutdown completed; log sequence number 0 46409
+120815 12:40:24 [Warning] Forcing shutdown of 1 plugins
+120815 12:40:24 [Note] wampmysqld: Shutdown complete
+
+120815 12:40:24  InnoDB: Started; log sequence number 0 46409
+120815 12:40:24 [Note] Event Scheduler: Loaded 0 events
+120815 12:40:24 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120815 12:41:26 [Note] wampmysqld: Normal shutdown
+
+120815 12:41:26 [Note] Event Scheduler: Purging the queue. 0 events
+120815 12:41:26  InnoDB: Starting shutdown...
+120815 12:41:27  InnoDB: Shutdown completed; log sequence number 0 46409
+120815 12:41:27 [Warning] Forcing shutdown of 1 plugins
+120815 12:41:27 [Note] wampmysqld: Shutdown complete
+
+120815 12:41:27  InnoDB: Started; log sequence number 0 46409
+120815 12:41:27 [Note] Event Scheduler: Loaded 0 events
+120815 12:41:27 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120815 12:41:41 [Note] wampmysqld: Normal shutdown
+
+120815 12:41:41 [Note] Event Scheduler: Purging the queue. 0 events
+120815 12:41:41  InnoDB: Starting shutdown...
+120815 12:41:42  InnoDB: Shutdown completed; log sequence number 0 46409
+120815 12:41:42 [Warning] Forcing shutdown of 1 plugins
+120815 12:41:42 [Note] wampmysqld: Shutdown complete
+
+120815 12:42:11  InnoDB: Started; log sequence number 0 46409
+120815 12:42:11 [Note] Event Scheduler: Loaded 0 events
+120815 12:42:11 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120815 12:53:14 [Note] wampmysqld: Normal shutdown
+
+120815 12:53:14 [Note] Event Scheduler: Purging the queue. 0 events
+120815 12:53:14  InnoDB: Starting shutdown...
+120815 12:53:14  InnoDB: Shutdown completed; log sequence number 0 46409
+120815 12:53:14 [Warning] Forcing shutdown of 1 plugins
+120815 12:53:14 [Note] wampmysqld: Shutdown complete
+
+120815 16:44:47  InnoDB: Started; log sequence number 0 46409
+120815 16:44:47 [Note] Event Scheduler: Loaded 0 events
+120815 16:44:47 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120815 16:57:35 [Note] wampmysqld: Normal shutdown
+
+120815 16:57:35 [Note] Event Scheduler: Purging the queue. 0 events
+120815 16:57:35  InnoDB: Starting shutdown...
+120815 16:57:36  InnoDB: Shutdown completed; log sequence number 0 46409
+120815 16:57:36 [Warning] Forcing shutdown of 1 plugins
+120815 16:57:36 [Note] wampmysqld: Shutdown complete
+
+120815 21:37:26  InnoDB: Started; log sequence number 0 46409
+120815 21:37:26 [Note] Event Scheduler: Loaded 0 events
+120815 21:37:26 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120815 21:49:15 [Note] wampmysqld: Normal shutdown
+
+120815 21:49:15 [Note] Event Scheduler: Purging the queue. 0 events
+120815 21:49:15  InnoDB: Starting shutdown...
+120815 21:49:15  InnoDB: Shutdown completed; log sequence number 0 46409
+120815 21:49:15 [Warning] Forcing shutdown of 1 plugins
+120815 21:49:15 [Note] wampmysqld: Shutdown complete
+
+120817 19:55:13  InnoDB: Started; log sequence number 0 46409
+120817 19:55:13 [Note] Event Scheduler: Loaded 0 events
+120817 19:55:13 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120818  0:38:48 [Note] wampmysqld: Normal shutdown
+
+120818  0:38:48 [Note] Event Scheduler: Purging the queue. 0 events
+120818  0:38:48  InnoDB: Starting shutdown...
+120818  0:38:49  InnoDB: Shutdown completed; log sequence number 0 46409
+120818  0:38:49 [Warning] Forcing shutdown of 1 plugins
+120818  0:38:49 [Note] wampmysqld: Shutdown complete
+
+120818 20:02:39  InnoDB: Started; log sequence number 0 46409
+120818 20:02:39 [Note] Event Scheduler: Loaded 0 events
+120818 20:02:39 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120818 20:25:13  InnoDB: Started; log sequence number 0 46409
+120818 20:25:13 [Note] Recovering after a crash using mysql-bin
+120818 20:25:14 [Note] Starting crash recovery...
+120818 20:25:14 [Note] Crash recovery finished.
+120818 20:25:14 [Note] Event Scheduler: Loaded 0 events
+120818 20:25:14 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120819  8:55:53  InnoDB: Started; log sequence number 0 46409
+120819  8:55:53 [Note] Recovering after a crash using mysql-bin
+120819  8:55:54 [Note] Starting crash recovery...
+120819  8:55:54 [Note] Crash recovery finished.
+120819  8:55:54 [Note] Event Scheduler: Loaded 0 events
+120819  8:55:54 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120819 22:54:06 [Note] wampmysqld: Normal shutdown
+
+120819 22:54:06 [Note] Event Scheduler: Purging the queue. 0 events
+120819 22:54:06  InnoDB: Starting shutdown...
+120819 22:54:08  InnoDB: Shutdown completed; log sequence number 0 46409
+120819 22:54:08 [Warning] Forcing shutdown of 1 plugins
+120819 22:54:09 [Note] wampmysqld: Shutdown complete
+
+120820  0:16:38  InnoDB: Started; log sequence number 0 46409
+120820  0:16:38 [Note] Event Scheduler: Loaded 0 events
+120820  0:16:38 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120820  0:31:23 [Note] wampmysqld: Normal shutdown
+
+120820  0:31:23 [Note] Event Scheduler: Purging the queue. 0 events
+120820  0:31:23  InnoDB: Starting shutdown...
+120820  0:31:27  InnoDB: Shutdown completed; log sequence number 0 46409
+120820  0:31:27 [Warning] Forcing shutdown of 1 plugins
+120820  0:31:27 [Note] wampmysqld: Shutdown complete
+
+120822  7:59:53  InnoDB: Started; log sequence number 0 46409
+120822  7:59:53 [Note] Event Scheduler: Loaded 0 events
+120822  7:59:53 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120822  8:00:52 [Note] wampmysqld: Normal shutdown
+
+120822  8:00:52 [Note] Event Scheduler: Purging the queue. 0 events
+120822  8:00:52  InnoDB: Starting shutdown...
+120822  8:00:52  InnoDB: Shutdown completed; log sequence number 0 46409
+120822  8:00:52 [Warning] Forcing shutdown of 1 plugins
+120822  8:00:52 [Note] wampmysqld: Shutdown complete
+
+120822  8:00:53  InnoDB: Started; log sequence number 0 46409
+120822  8:00:53 [Note] Event Scheduler: Loaded 0 events
+120822  8:00:53 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120822  8:41:01 [Note] wampmysqld: Normal shutdown
+
+120822  8:41:01 [Note] Event Scheduler: Purging the queue. 0 events
+120822  8:41:01  InnoDB: Starting shutdown...
+120822  8:41:02  InnoDB: Shutdown completed; log sequence number 0 46409
+120822  8:41:02 [Warning] Forcing shutdown of 1 plugins
+120822  8:41:02 [Note] wampmysqld: Shutdown complete
+
+120822  8:54:03  InnoDB: Started; log sequence number 0 46409
+120822  8:54:03 [Note] Event Scheduler: Loaded 0 events
+120822  8:54:03 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120822  8:54:38 [Note] wampmysqld: Normal shutdown
+
+120822  8:54:38 [Note] Event Scheduler: Purging the queue. 0 events
+120822  8:54:38  InnoDB: Starting shutdown...
+120822  8:54:39  InnoDB: Shutdown completed; log sequence number 0 46409
+120822  8:54:39 [Warning] Forcing shutdown of 1 plugins
+120822  8:54:39 [Note] wampmysqld: Shutdown complete
+
+120824 22:29:33  InnoDB: Started; log sequence number 0 46409
+120824 22:29:33 [Note] Event Scheduler: Loaded 0 events
+120824 22:29:33 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120824 22:35:22 [Note] wampmysqld: Normal shutdown
+
+120824 22:35:22 [Note] Event Scheduler: Purging the queue. 0 events
+120824 22:35:22  InnoDB: Starting shutdown...
+120824 22:35:22  InnoDB: Shutdown completed; log sequence number 0 46409
+120824 22:35:22 [Warning] Forcing shutdown of 1 plugins
+120824 22:35:22 [Note] wampmysqld: Shutdown complete
+
+120826 10:50:01  InnoDB: Started; log sequence number 0 46409
+120826 10:50:03 [Note] Event Scheduler: Loaded 0 events
+120826 10:50:03 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120826 11:12:58 [Note] wampmysqld: Normal shutdown
+
+120826 11:12:58 [Note] Event Scheduler: Purging the queue. 0 events
+120826 11:12:58  InnoDB: Starting shutdown...
+120826 11:12:59  InnoDB: Shutdown completed; log sequence number 0 46409
+120826 11:12:59 [Warning] Forcing shutdown of 1 plugins
+120826 11:12:59 [Note] wampmysqld: Shutdown complete
+
+120826 11:34:56  InnoDB: Started; log sequence number 0 46409
+120826 11:34:56 [Note] Event Scheduler: Loaded 0 events
+120826 11:34:56 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120826 11:39:06 [Note] wampmysqld: Normal shutdown
+
+120826 11:39:06 [Note] Event Scheduler: Purging the queue. 0 events
+120826 11:39:06  InnoDB: Starting shutdown...
+120826 11:39:07  InnoDB: Shutdown completed; log sequence number 0 46409
+120826 11:39:07 [Warning] Forcing shutdown of 1 plugins
+120826 11:39:07 [Note] wampmysqld: Shutdown complete
+
+120829 22:05:27  InnoDB: Started; log sequence number 0 46409
+120829 22:05:27 [Note] Event Scheduler: Loaded 0 events
+120829 22:05:27 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120830  1:35:39 [Note] wampmysqld: Normal shutdown
+
+120830  1:35:40 [Note] Event Scheduler: Purging the queue. 0 events
+120830  1:35:40  InnoDB: Starting shutdown...
+120830  1:35:41  InnoDB: Shutdown completed; log sequence number 0 46409
+120830  1:35:41 [Warning] Forcing shutdown of 1 plugins
+120830  1:35:41 [Note] wampmysqld: Shutdown complete
+
+120902 20:17:29  InnoDB: Started; log sequence number 0 46409
+120902 20:17:30 [Note] Event Scheduler: Loaded 0 events
+120902 20:17:30 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120902 20:17:34 [Note] wampmysqld: Normal shutdown
+
+120902 20:17:34 [Note] Event Scheduler: Purging the queue. 0 events
+120902 20:17:34  InnoDB: Starting shutdown...
+120902 20:17:35  InnoDB: Shutdown completed; log sequence number 0 46409
+120902 20:17:35 [Warning] Forcing shutdown of 1 plugins
+120902 20:17:35 [Note] wampmysqld: Shutdown complete
+
+120902 22:30:48  InnoDB: Started; log sequence number 0 46409
+120902 22:30:49 [Note] Event Scheduler: Loaded 0 events
+120902 22:30:49 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120903  1:57:47 [Note] wampmysqld: Normal shutdown
+
+120903  1:57:47 [Note] Event Scheduler: Purging the queue. 0 events
+120903  1:57:47  InnoDB: Starting shutdown...
+120903  1:57:48  InnoDB: Shutdown completed; log sequence number 0 46409
+120903  1:57:48 [Warning] Forcing shutdown of 1 plugins
+120903  1:57:48 [Note] wampmysqld: Shutdown complete
+
+120903 10:18:42  InnoDB: Started; log sequence number 0 46409
+120903 10:18:43 [Note] Event Scheduler: Loaded 0 events
+120903 10:18:43 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120903 13:24:42 [Note] wampmysqld: Normal shutdown
+
+120903 13:24:43 [Note] Event Scheduler: Purging the queue. 0 events
+120903 13:24:43  InnoDB: Starting shutdown...
+120903 13:24:44  InnoDB: Shutdown completed; log sequence number 0 46409
+120903 13:24:44 [Warning] Forcing shutdown of 1 plugins
+120903 13:24:44 [Note] wampmysqld: Shutdown complete
+
+120903 21:34:41  InnoDB: Started; log sequence number 0 46409
+120903 21:34:41 [Note] Event Scheduler: Loaded 0 events
+120903 21:34:41 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120904  1:18:12 [Note] wampmysqld: Normal shutdown
+
+120904  1:18:12 [Note] Event Scheduler: Purging the queue. 0 events
+120904  1:18:13  InnoDB: Starting shutdown...
+120904  1:18:13  InnoDB: Shutdown completed; log sequence number 0 46409
+120904  1:18:13 [Warning] Forcing shutdown of 1 plugins
+120904  1:18:13 [Note] wampmysqld: Shutdown complete
+
+120904  8:01:11  InnoDB: Started; log sequence number 0 46409
+120904  8:01:11 [Note] Event Scheduler: Loaded 0 events
+120904  8:01:11 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120904  8:08:38 [Note] wampmysqld: Normal shutdown
+
+120904  8:08:38 [Note] Event Scheduler: Purging the queue. 0 events
+120904  8:08:38  InnoDB: Starting shutdown...
+120904  8:08:39  InnoDB: Shutdown completed; log sequence number 0 46409
+120904  8:08:39 [Warning] Forcing shutdown of 1 plugins
+120904  8:08:39 [Note] wampmysqld: Shutdown complete
+
+120904 11:46:11  InnoDB: Started; log sequence number 0 46409
+120904 11:46:12 [Note] Event Scheduler: Loaded 0 events
+120904 11:46:12 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120904 18:50:02 [Note] wampmysqld: Normal shutdown
+
+120904 18:50:02 [Note] Event Scheduler: Purging the queue. 0 events
+120904 18:50:03  InnoDB: Starting shutdown...
+120904 18:50:09  InnoDB: Shutdown completed; log sequence number 0 46409
+120904 18:50:09 [Warning] Forcing shutdown of 1 plugins
+120904 18:50:10 [Note] wampmysqld: Shutdown complete
+
+120904 21:32:17  InnoDB: Started; log sequence number 0 46409
+120904 21:32:18 [Note] Event Scheduler: Loaded 0 events
+120904 21:32:18 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120905 10:42:54 [Note] wampmysqld: Normal shutdown
+
+120905 10:42:54 [Note] Event Scheduler: Purging the queue. 0 events
+120905 10:42:55  InnoDB: Starting shutdown...
+120905 10:42:57  InnoDB: Shutdown completed; log sequence number 0 46409
+120905 10:42:57 [Warning] Forcing shutdown of 1 plugins
+120905 10:42:57 [Note] wampmysqld: Shutdown complete
+
+120905 10:43:07  InnoDB: Started; log sequence number 0 46409
+120905 10:43:08 [Note] Event Scheduler: Loaded 0 events
+120905 10:43:08 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120905 17:25:35 [Note] wampmysqld: Normal shutdown
+
+120905 17:25:36 [Note] Event Scheduler: Purging the queue. 0 events
+120905 20:58:36  InnoDB: Started; log sequence number 0 46409
+120905 20:58:37 [Note] Event Scheduler: Loaded 0 events
+120905 20:58:37 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120906  0:53:29 [Note] wampmysqld: Normal shutdown
+
+120906  0:53:30 [Note] Event Scheduler: Purging the queue. 0 events
+120906  0:53:34  InnoDB: Starting shutdown...
+120906  0:53:37  InnoDB: Shutdown completed; log sequence number 0 46409
+120906  0:53:37 [Warning] Forcing shutdown of 1 plugins
+120906  0:53:37 [Note] wampmysqld: Shutdown complete
+
+120906  9:15:11  InnoDB: Started; log sequence number 0 46409
+120906  9:15:11 [Note] Event Scheduler: Loaded 0 events
+120906  9:15:11 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120906 10:55:56 [Note] wampmysqld: Normal shutdown
+
+120906 10:55:56 [Note] Event Scheduler: Purging the queue. 0 events
+120906 10:55:56  InnoDB: Starting shutdown...
+120906 10:55:56  InnoDB: Shutdown completed; log sequence number 0 46409
+120906 10:55:56 [Warning] Forcing shutdown of 1 plugins
+120906 10:55:56 [Note] wampmysqld: Shutdown complete
+
+120906 21:59:11  InnoDB: Started; log sequence number 0 46409
+120906 21:59:11 [Note] Event Scheduler: Loaded 0 events
+120906 21:59:11 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120906 22:25:21 [Note] wampmysqld: Normal shutdown
+
+120906 22:25:21 [Note] Event Scheduler: Purging the queue. 0 events
+120906 22:25:21  InnoDB: Starting shutdown...
+120906 22:25:22  InnoDB: Shutdown completed; log sequence number 0 46409
+120906 22:25:22 [Warning] Forcing shutdown of 1 plugins
+120906 22:25:22 [Note] wampmysqld: Shutdown complete
+
+120907  9:46:17  InnoDB: Started; log sequence number 0 46409
+120907  9:46:17 [Note] Event Scheduler: Loaded 0 events
+120907  9:46:17 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120907 18:05:32 [Note] wampmysqld: Normal shutdown
+
+120907 18:05:32 [Note] Event Scheduler: Purging the queue. 0 events
+120907 18:05:32  InnoDB: Starting shutdown...
+120907 18:05:34  InnoDB: Shutdown completed; log sequence number 0 46409
+120907 18:05:34 [Warning] Forcing shutdown of 1 plugins
+120907 18:05:34 [Note] wampmysqld: Shutdown complete
+
+120908  0:44:48  InnoDB: Started; log sequence number 0 46409
+120908  0:44:48 [Note] Event Scheduler: Loaded 0 events
+120908  0:44:48 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120908  0:45:45 [Note] wampmysqld: Normal shutdown
+
+120908  0:45:45 [Note] Event Scheduler: Purging the queue. 0 events
+120908  0:45:45  InnoDB: Starting shutdown...
+120908  0:45:46  InnoDB: Shutdown completed; log sequence number 0 46409
+120908  0:45:46 [Warning] Forcing shutdown of 1 plugins
+120908  0:45:46 [Note] wampmysqld: Shutdown complete
+
+120909  9:00:51  InnoDB: Started; log sequence number 0 46409
+120909  9:00:51 [Note] Event Scheduler: Loaded 0 events
+120909  9:00:51 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120909  9:34:56 [Note] wampmysqld: Normal shutdown
+
+120909  9:34:56 [Note] Event Scheduler: Purging the queue. 0 events
+120909  9:34:56  InnoDB: Starting shutdown...
+120909  9:34:57  InnoDB: Shutdown completed; log sequence number 0 46409
+120909  9:34:57 [Warning] Forcing shutdown of 1 plugins
+120909  9:34:57 [Note] wampmysqld: Shutdown complete
+
+120909 17:12:29  InnoDB: Started; log sequence number 0 46409
+120909 17:12:29 [Note] Event Scheduler: Loaded 0 events
+120909 17:12:29 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120910  0:29:58 [Note] wampmysqld: Normal shutdown
+
+120910  0:29:58 [Note] Event Scheduler: Purging the queue. 0 events
+120910  0:29:58  InnoDB: Starting shutdown...
+120910  0:29:59  InnoDB: Shutdown completed; log sequence number 0 46409
+120910  0:29:59 [Warning] Forcing shutdown of 1 plugins
+120910  0:30:00 [Note] wampmysqld: Shutdown complete
+
+120910 10:16:33  InnoDB: Started; log sequence number 0 46409
+120910 10:16:33 [Note] Event Scheduler: Loaded 0 events
+120910 10:16:33 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120910 10:48:02 [Note] wampmysqld: Normal shutdown
+
+120910 10:48:02 [Note] Event Scheduler: Purging the queue. 0 events
+120910 10:48:02  InnoDB: Starting shutdown...
+120910 10:48:03  InnoDB: Shutdown completed; log sequence number 0 46409
+120910 10:48:03 [Warning] Forcing shutdown of 1 plugins
+120910 10:48:03 [Note] wampmysqld: Shutdown complete
+
+120910 10:48:03  InnoDB: Started; log sequence number 0 46409
+120910 10:48:03 [Note] Event Scheduler: Loaded 0 events
+120910 10:48:03 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120910 10:57:17 [Note] wampmysqld: Normal shutdown
+
+120910 10:57:17 [Note] Event Scheduler: Purging the queue. 0 events
+120910 10:57:17  InnoDB: Starting shutdown...
+120910 10:57:18  InnoDB: Shutdown completed; log sequence number 0 46409
+120910 10:57:18 [Warning] Forcing shutdown of 1 plugins
+120910 10:57:18 [Note] wampmysqld: Shutdown complete
+
+120910 11:00:16  InnoDB: Started; log sequence number 0 46409
+120910 11:00:16 [Note] Event Scheduler: Loaded 0 events
+120910 11:00:16 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120910 16:23:40 [Note] wampmysqld: Normal shutdown
+
+120910 16:23:40 [Note] Event Scheduler: Purging the queue. 0 events
+120910 16:23:40  InnoDB: Starting shutdown...
+120910 16:23:40  InnoDB: Shutdown completed; log sequence number 0 46409
+120910 16:23:40 [Warning] Forcing shutdown of 1 plugins
+120910 16:23:41 [Note] wampmysqld: Shutdown complete
+
+120910 21:21:41  InnoDB: Started; log sequence number 0 46409
+120910 21:21:42 [Note] Event Scheduler: Loaded 0 events
+120910 21:21:42 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120910 21:42:21 [Note] wampmysqld: Normal shutdown
+
+120910 21:42:21 [Note] Event Scheduler: Purging the queue. 0 events
+120910 21:42:21  InnoDB: Starting shutdown...
+120910 21:42:23  InnoDB: Shutdown completed; log sequence number 0 46409
+120910 21:42:23 [Warning] Forcing shutdown of 1 plugins
+120910 21:42:23 [Note] wampmysqld: Shutdown complete
+
+120912 16:51:07  InnoDB: Started; log sequence number 0 46409
+120912 16:51:09 [Note] Event Scheduler: Loaded 0 events
+120912 16:51:09 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120912 18:07:38 [Note] wampmysqld: Normal shutdown
+
+120912 18:07:38 [Note] Event Scheduler: Purging the queue. 0 events
+120912 18:07:39  InnoDB: Starting shutdown...
+120912 18:07:40  InnoDB: Shutdown completed; log sequence number 0 46409
+120912 18:07:40 [Warning] Forcing shutdown of 1 plugins
+120912 18:07:40 [Note] wampmysqld: Shutdown complete
+
+120912 18:07:48  InnoDB: Started; log sequence number 0 46409
+120912 18:07:51 [Note] Event Scheduler: Loaded 0 events
+120912 18:07:51 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120912 23:28:12 [Note] wampmysqld: Normal shutdown
+
+120912 23:28:12 [Note] Event Scheduler: Purging the queue. 0 events
+120912 23:28:15  InnoDB: Starting shutdown...
+120912 23:28:22  InnoDB: Shutdown completed; log sequence number 0 46409
+120912 23:28:22 [Warning] Forcing shutdown of 1 plugins
+120912 23:28:22 [Note] wampmysqld: Shutdown complete
+
+120913  9:51:25  InnoDB: Started; log sequence number 0 46409
+120913  9:51:26 [Note] Event Scheduler: Loaded 0 events
+120913  9:51:26 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120913 22:42:03 [Note] wampmysqld: Normal shutdown
+
+120913 22:42:03 [Note] Event Scheduler: Purging the queue. 0 events
+120913 23:03:19  InnoDB: Started; log sequence number 0 46409
+120913 23:03:19 [Note] Event Scheduler: Loaded 0 events
+120913 23:03:19 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120914  0:09:59 [Note] wampmysqld: Normal shutdown
+
+120914  0:09:59 [Note] Event Scheduler: Purging the queue. 0 events
+120914  0:09:59  InnoDB: Starting shutdown...
+120914  0:10:00  InnoDB: Shutdown completed; log sequence number 0 46409
+120914  0:10:00 [Warning] Forcing shutdown of 1 plugins
+120914  0:10:00 [Note] wampmysqld: Shutdown complete
+
+120915  9:07:51  InnoDB: Started; log sequence number 0 46409
+120915  9:07:51 [Note] Event Scheduler: Loaded 0 events
+120915  9:07:51 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120915 13:53:12 [Note] wampmysqld: Normal shutdown
+
+120915 13:53:12 [Note] Event Scheduler: Purging the queue. 0 events
+120915 13:53:12  InnoDB: Starting shutdown...
+120915 13:53:13  InnoDB: Shutdown completed; log sequence number 0 46409
+120915 13:53:13 [Warning] Forcing shutdown of 1 plugins
+120915 13:53:13 [Note] wampmysqld: Shutdown complete
+
+120919 12:35:30  InnoDB: Started; log sequence number 0 46409
+120919 12:35:30 [Note] Event Scheduler: Loaded 0 events
+120919 12:35:30 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120919 16:27:42 [Note] wampmysqld: Normal shutdown
+
+120919 16:27:42 [Note] Event Scheduler: Purging the queue. 0 events
+120919 16:27:42  InnoDB: Starting shutdown...
+120919 16:27:44  InnoDB: Shutdown completed; log sequence number 0 46409
+120919 16:27:44 [Warning] Forcing shutdown of 1 plugins
+120919 16:27:44 [Note] wampmysqld: Shutdown complete
+
+121218  0:05:44  InnoDB: Started; log sequence number 0 46409
+121218  0:05:46 [Note] Event Scheduler: Loaded 0 events
+121218  0:05:46 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+121218  0:36:31 [Note] wampmysqld: Normal shutdown
+
+121218  0:36:31 [Note] Event Scheduler: Purging the queue. 0 events
+121218  0:36:31  InnoDB: Starting shutdown...
+121218  0:36:32  InnoDB: Shutdown completed; log sequence number 0 46409
+121218  0:36:32 [Warning] Forcing shutdown of 1 plugins
+121218  0:36:32 [Note] wampmysqld: Shutdown complete
+
+121230 15:13:05  InnoDB: Started; log sequence number 0 46409
+121230 15:13:06 [Note] Event Scheduler: Loaded 0 events
+121230 15:13:06 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+121230 15:30:29 [Note] wampmysqld: Normal shutdown
+
+121230 15:30:29 [Note] Event Scheduler: Purging the queue. 0 events
+121230 15:30:29  InnoDB: Starting shutdown...
+121230 15:30:30  InnoDB: Shutdown completed; log sequence number 0 46409
+121230 15:30:30 [Warning] Forcing shutdown of 1 plugins
+121230 15:30:30 [Note] wampmysqld: Shutdown complete
+
+130101 12:42:33  InnoDB: Started; log sequence number 0 46409
+130101 12:42:37 [Note] Event Scheduler: Loaded 0 events
+130101 12:42:37 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+130101 12:52:21 [Note] wampmysqld: Normal shutdown
+
+130101 12:52:21 [Note] Event Scheduler: Purging the queue. 0 events
+130101 12:52:21  InnoDB: Starting shutdown...
+130101 12:52:22  InnoDB: Shutdown completed; log sequence number 0 46409
+130101 12:52:22 [Warning] Forcing shutdown of 1 plugins
+130101 12:52:22 [Note] wampmysqld: Shutdown complete
+
+130222 16:39:27  InnoDB: Started; log sequence number 0 46409
+130222 16:39:28 [Note] Event Scheduler: Loaded 0 events
+130222 16:39:28 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+130222 17:00:39 [Note] wampmysqld: Normal shutdown
+
+130222 17:00:39 [Note] Event Scheduler: Purging the queue. 0 events
+130222 17:00:39  InnoDB: Starting shutdown...
+130222 17:00:40  InnoDB: Shutdown completed; log sequence number 0 46409
+130222 17:00:40 [Warning] Forcing shutdown of 1 plugins
+130222 17:00:40 [Note] wampmysqld: Shutdown complete
+
+140301 20:27:55  InnoDB: Started; log sequence number 0 46409
+140301 20:27:58 [Note] Event Scheduler: Loaded 0 events
+140301 20:27:58 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+140302  8:23:10 [Note] wampmysqld: Normal shutdown
+
+140302  8:23:10 [Note] Event Scheduler: Purging the queue. 0 events
+140302  8:23:10  InnoDB: Starting shutdown...
+140302  8:23:11  InnoDB: Shutdown completed; log sequence number 0 46409
+140302  8:23:11 [Warning] Forcing shutdown of 1 plugins
+140302  8:23:11 [Note] wampmysqld: Shutdown complete
+
+140302  8:23:12  InnoDB: Started; log sequence number 0 46409
+140302  8:23:12 [Note] Event Scheduler: Loaded 0 events
+140302  8:23:12 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+140302  8:44:01 [Note] wampmysqld: Normal shutdown
+
+140302  8:44:01 [Note] Event Scheduler: Purging the queue. 0 events
+140302  8:44:01  InnoDB: Starting shutdown...
+140302  8:44:02  InnoDB: Shutdown completed; log sequence number 0 46409
+140302  8:44:02 [Warning] Forcing shutdown of 1 plugins
+140302  8:44:02 [Note] wampmysqld: Shutdown complete
+
+140302  8:59:21  InnoDB: Started; log sequence number 0 46409
+140302  8:59:28 [Note] Event Scheduler: Loaded 0 events
+140302  8:59:28 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+140302  9:06:40 [Note] wampmysqld: Normal shutdown
+
+140302  9:06:40 [Note] Event Scheduler: Purging the queue. 0 events
+140302  9:06:40  InnoDB: Starting shutdown...
+140302  9:06:41  InnoDB: Shutdown completed; log sequence number 0 46409
+140302  9:06:41 [Warning] Forcing shutdown of 1 plugins
+140302  9:06:41 [Note] wampmysqld: Shutdown complete
+
+140302  9:06:45  InnoDB: Started; log sequence number 0 46409
+140302  9:06:45 [Note] Event Scheduler: Loaded 0 events
+140302  9:06:45 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+140302  9:10:44 [Note] wampmysqld: Normal shutdown
+
+140302  9:10:44 [Note] Event Scheduler: Purging the queue. 0 events
+140302  9:10:44  InnoDB: Starting shutdown...
+140302  9:10:44  InnoDB: Shutdown completed; log sequence number 0 46409
+140302  9:10:44 [Warning] Forcing shutdown of 1 plugins
+140302  9:10:44 [Note] wampmysqld: Shutdown complete
+
+140302  9:10:45  InnoDB: Started; log sequence number 0 46409
+140302  9:10:45 [Note] Event Scheduler: Loaded 0 events
+140302  9:10:45 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+140302 10:53:46 [Note] wampmysqld: Normal shutdown
+
+140302 10:53:46 [Note] Event Scheduler: Purging the queue. 0 events
+140302 10:53:46  InnoDB: Starting shutdown...
+140302 10:53:47  InnoDB: Shutdown completed; log sequence number 0 46409
+140302 10:53:47 [Warning] Forcing shutdown of 1 plugins
+140302 10:53:47 [Note] wampmysqld: Shutdown complete
+
+140302 17:15:58  InnoDB: Started; log sequence number 0 46409
+140302 17:16:04 [Note] Event Scheduler: Loaded 0 events
+140302 17:16:04 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+140303  0:16:57 [Note] wampmysqld: Normal shutdown
+
+140303  0:16:57 [Note] Event Scheduler: Purging the queue. 0 events
+140303  0:16:57  InnoDB: Starting shutdown...
+140303  0:17:00  InnoDB: Shutdown completed; log sequence number 0 46409
+140303  0:17:00 [Warning] Forcing shutdown of 1 plugins
+140303  0:17:00 [Note] wampmysqld: Shutdown complete
+
+140303 12:36:28  InnoDB: Started; log sequence number 0 46409
+140303 12:36:30 [Note] Event Scheduler: Loaded 0 events
+140303 12:36:30 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+140303 16:12:55 [Note] wampmysqld: Normal shutdown
+
+140303 16:12:55 [Note] Event Scheduler: Purging the queue. 0 events
+140303 16:12:55  InnoDB: Starting shutdown...
+140303 16:12:57  InnoDB: Shutdown completed; log sequence number 0 46409
+140303 16:12:57 [Warning] Forcing shutdown of 1 plugins
+140303 16:12:57 [Note] wampmysqld: Shutdown complete
+
+140325 22:25:29  InnoDB: Started; log sequence number 0 46409
+140325 22:25:32 [Note] Event Scheduler: Loaded 0 events
+140325 22:25:32 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+140325 22:30:02 [Note] wampmysqld: Normal shutdown
+
+140325 22:30:02 [Note] Event Scheduler: Purging the queue. 0 events
+140325 22:30:02  InnoDB: Starting shutdown...
+140325 22:30:03  InnoDB: Shutdown completed; log sequence number 0 46419
+140325 22:30:03 [Warning] Forcing shutdown of 1 plugins
+140325 22:30:03 [Note] wampmysqld: Shutdown complete
+
+140328 10:38:02  InnoDB: Started; log sequence number 0 46419
+140328 10:38:05 [Note] Event Scheduler: Loaded 0 events
+140328 10:38:05 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+140328 12:59:02 [Note] wampmysqld: Normal shutdown
+
+140328 12:59:03 [Note] Event Scheduler: Purging the queue. 0 events
+140328 12:59:03  InnoDB: Starting shutdown...
+140328 12:59:06  InnoDB: Shutdown completed; log sequence number 0 46419
+140328 12:59:06 [Warning] Forcing shutdown of 1 plugins
+140328 12:59:07 [Note] wampmysqld: Shutdown complete
+
+140414 11:34:09  InnoDB: Started; log sequence number 0 46419
+140414 11:34:15 [Note] Event Scheduler: Loaded 0 events
+140414 11:34:15 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+140414 12:24:06 [Note] wampmysqld: Normal shutdown
+
+140414 12:24:06 [Note] Event Scheduler: Purging the queue. 0 events
+140414 12:24:06  InnoDB: Starting shutdown...
+140414 12:24:07  InnoDB: Shutdown completed; log sequence number 0 46419
+140414 12:24:07 [Warning] Forcing shutdown of 1 plugins
+140414 12:24:07 [Note] wampmysqld: Shutdown complete
+
+140619  1:26:07  InnoDB: Started; log sequence number 0 46419
+140619  1:26:09 [Note] Event Scheduler: Loaded 0 events
+140619  1:26:09 [Note] wampmysqld: ready for connections.
+Version: '5.1.32-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+140619 12:30:39 [Note] wampmysqld: Normal shutdown
+
+140619 12:30:39 [Note] Event Scheduler: Purging the queue. 0 events
+140619 12:30:39  InnoDB: Starting shutdown...
+140619 12:30:40  InnoDB: Shutdown completed; log sequence number 0 46419
+140619 12:30:40 [Warning] Forcing shutdown of 1 plugins
+140619 12:30:40 [Note] wampmysqld: Shutdown complete
+

@@ -1,0 +1,11 @@
+---
+applications:
+- name: tcsticketappv1
+  memory: 256M
+  instances: 1
+  host: tcsticketvr1
+  domain: mybluemix.net
+  path: .
+  services:
+  - tcsticketdba
+

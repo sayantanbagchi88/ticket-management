@@ -1,0 +1,9 @@
+---
+applications:
+- name: wamp
+  memory: 128M
+  instances: 1
+  host: wampofSB
+  domain: github.com
+  path: .
+ 
